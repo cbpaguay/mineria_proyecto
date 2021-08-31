@@ -43,4 +43,4 @@ df.drop_duplicates(subset=None, keep="first", inplace=True)
 #Resetear indices
 df.reset_index(drop=True)
 # Exportar los datos a un csv
-df.to_csv('./data/links_{}_eltelegrafo.csv'.format(tags['tag']), sep=',')
+df.to_csv('./data/{}_eltelegrafo.csv'.format(tags['tag']), sep=',')

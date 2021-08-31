@@ -1,940 +1,266 @@
-,fecha,titulo,descripcion
-0,20 de julio de 2021 09:31,Detienen a hombre que asaltó a periodista en vivo,Alias 'Tontín' le robó su celular a un periodista de DirecTV en las inmediaciones del estadio de Barcelona
-1,04 de julio de 2021 14:32,En Machala roban a plena luz del día,Las cámaras de video de una empresa de recaudación captaron el momento del intento de robo
-2,15 de junio de 2021 16:50,Un nuevo atraco en Quito quedó registrado en video,"El hecho ocurrió en un local de comidas, en donde ingresaron siete delincuentes "
-3,12 de enero de 2021 09:40,Adolescente habría integrado una banda de asaltantes en Cuenca,La menor de edad se encuentra con medidas alternativas a la prisión preventiva. 
-4,27 de diciembre de 2020 23:33,Fiscalía reporta el robo de fondos solidarios en el MIES,"El monto que cobraron alcanza los USD 9'860.000, delito registrado también en 2018. "
-5,16 de diciembre de 2020 11:17,Procesan a 12 personas de una banda delictiva que operaba en los mercados de Ambato,Los individuos operaban de forma organizada y cumplían roles específicos para robar.
-6,13 de diciembre de 2020 16:13,Casa de Paolo Rossi fue saqueada durante su funeral,El exfutbolista falleció en Italia por una enfermedad incurable
-7,03 de diciembre de 2020 09:19,La pareja del terror trató de fugar hacia Colombia a través de un paso clandestino,La Policía informó que Israel Bairon P. S. tiene antecedentes por robo y hurto. 
-8,30 de noviembre de 2020 09:11,Pareja detenida por robo quedó en libertad al pagar $ 500,Los ciudadanos fueron detenidos tras una alerta oportuna a través de la línea del 911.
-9,23 de agosto de 2021 11:35,Policía recaptura a hombre que se fugó de la cárcel de Manabí hace cinco años,El prófugo escapó de un centro de reclusión de Manta durante el terremoto de abril de 2016.
-10,20 de agosto de 2021 21:44,Cuatro procesados son llamados a juicio por el asesinato de dirigente político,La Fiscalía General del Estado presentó elementos de convicción en la Unidad Judicial Multicompetente de Los Ríos
-11,19 de agosto de 2021 14:29,Se abre audiencia para ocho implicados en el asesinato de Efraín Ruales,La Fiscalía aún debe establecer quiénes fueron os autores materiales del crimen. 
-12,18 de agosto de 2021 07:04,Tres presuntos delincuentes fueron aprehendidos por robo de celular en el centro de Quito,Policía Nacional se hizo cargo de los implicados. 
-13,17 de agosto de 2021 16:56,Daniel Salcedo recibió una tercera condena de tres años,Salcedo se encuentra en la Cárcel 4 y recibió la pena por el delito de ingreso de artículos prohibidos
-14,12 de agosto de 2021 15:07,Seis PPL fallecieron por amotinamiento en cárcel de Quevedo,"La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se acercaron al lugar"
-15,25 de noviembre de 2020 18:35,Desmantelada una banda una banda que robaba y vendía droga,"La organización se reunía y planificaba sus actos delictivos en la avenida Portete y la calle 17, en Guayaquil. Los vecinos del barrio los denunciaron por robo y venta de dogas. La Policía encontró municiones y celulares."
-16,30 de septiembre de 2020 21:02,Detenidos dos asaltantes que trataron de asesinar a un policía en Guayaquil,Los hombres tenían en su poder armas. Uno de ellos tenía antecedentes por robo. Ahora serán procesados por tentativa de asesinato.
-17,21 de septiembre de 2020 20:56,Robaba automóviles y luego extorsionaba a las víctimas para devolverles lo sustraído,"Al individuo se le incautaron un celular, una tarjeta SIM y 1.700 dólares, además se le dictaron medidas sustitutivas a la prisión preventiva.
+,titulo,link,fecha,descripcion
+0,Detienen a hombre que asaltó a periodista en vivo,/noticias/judicial/12/periodista-detencion-ladron-barcelona,20 de julio de 2021 09:31,"El reportero deportivo Diego Ordinola protagonizó uno de los videos más viralizados del primer semestre de este 2021 mientras ejercía su labor periodística. Un hombre lo asaltó en vivo, cuando realizaba un informe en los exteriores del Estadio Monumental, en Guayaquil."
+1,En Machala roban a plena luz del día,/noticias/actualidad/44/en-machala-roban-a-plena-luz-del-dia,04 de julio de 2021 14:32,"Como producto de un fuerte golpe, un vidrio se rompe; instantáneamente la persona detrás de él grita y se aleja: dos hombres con mascarilla y un martillo son los causantes de aquel susto que recibe una mujer. Intentan robar la caja de recaudación y la computadora adherida a ella. Son las imágenes que muestran las cámaras privadas de una agencia multiservicios ubicada en la ciudad de Machala, provincia de El Oro. Captaron el momento en que dos sujetos intentaron perpetrar un robo en el local el pasado 30 de junio."
+2,Un nuevo atraco en Quito quedó registrado en video,/noticias/actualidad/44/nuevo-asalto-robo-quito-registrado-video,15 de junio de 2021 16:50,"Siete delincuentes que se encontraban en motocicletas ingresaron abruptamente a un local de comidas en el norte de Quito, la noche del lunes 14 de junio del 2021. El hecho quedó registrado en las cámaras de seguridad. "
+3,Adolescente habría integrado una banda de asaltantes en Cuenca,/noticias/judicial/12/adolescente-habria-integrado-banda-asaltantes-cuenca,12 de enero de 2021 09:40,La Fiscalía del Azuay inició dos instrucciones fiscales de 30 días contra cinco presuntos autores del delito de robo.
+4,Fiscalía reporta el robo de fondos solidarios en el MIES,/noticias/sociedad/6/fiscalia-reporta-el-robo-de-fondos-solidarios-en-el-mies,27 de diciembre de 2020 23:33,"Según reporte de Noticias Ec, la Fiscalía de Ecuador anunció que sujetos habrían cobrado el bono de desarrollo humano otorgado por el Ministerio de Inclusión Económica y Social por la pandemia. Los procesados habrían aprovechado el acceso al sistema de cobros para evitar que beneficiarios se enteraran de que habían sido favorecidos con el bono."
+5,Procesan a 12 personas de una banda delictiva que operaba en los mercados de Ambato,/noticias/judicial/12/fiscalia-procesa-presunta-banda-delincuencial-operaba-mercados-ambato,16 de diciembre de 2020 11:17,Doce personas son procesadas por presunto delito de asociación ilícita (para cometer robos) en la ciudad de Ambato (Tungurahua).
+6,Casa de Paolo Rossi fue saqueada durante su funeral,/noticias/futbol-internacional/7/paolo-rossi-delincuencia-italia,13 de diciembre de 2020 16:13,"La familia del exfutbolista italiano Paolo Rossi, fallecido el martes a los 64 años, denunció un robo en su domicilio de Bucine (Arezzo), que se produjo durante el funeral del campeón del Mundial de España 1982 en la catedral de Vicenza."
+7,La pareja del terror trató de fugar hacia Colombia a través de un paso clandestino,/noticias/judicial/12/ministro-gobierno-confirmo-captura-pareja-asaltantes-pizzeria,03 de diciembre de 2020 09:19,"Patricio Pazmiño, ministro de Gobierno, informó que este miércoles 2 de noviembre, fue detenida una pareja que estaría relacionada en el asalto en una pizzería en Quito. La noticia la divulgó a través de su cuenta de Twitter."
+8,Pareja detenida por robo quedó en libertad al pagar $ 500,/noticias/judicial/12/prision-preventiva-pareja-que-asalto-puesto-comida,30 de noviembre de 2020 09:11,Dos ciudadanos extranjeros fueron puestos bajo prisión preventiva la tarde de este viernes 27 de noviembre.
+9,Policía recaptura a hombre que se fugó de la cárcel de Manabí hace cinco años,/noticias/judicial/12/policia-recaptura-carcel-manabi-profugo,23 de agosto de 2021 11:35,
+10,Cuatro procesados son llamados a juicio por el asesinato de dirigente político,/noticias/justicia/12/cuatro-procesados-llamados-juicio-asesinato-dirigente-politico,20 de agosto de 2021 21:44,"Cuatro personas fueron llamadas a juicio por su presunta participación en el asesinato del dirigente político Patricio M. P., ocurrido el pasado 22 de diciembre del 2020, en Quevedo."
+11,Se abre audiencia para ocho implicados en el asesinato de Efraín Ruales,/noticias/justicia/12/audiencia-ocho-implicados-asesinato-efrainruales,19 de agosto de 2021 14:29,"Ocho personas investigadas por el asesinato del presentador de televisión, Efraín Ruales, entraron a la audiencia preparatoria y evaluación de juicio en su contra, este jueves 19 de agosto del 2021. El crimen ocurrió el pasado miércoles 27 de enero. "
+12,Tres presuntos delincuentes fueron aprehendidos por robo de celular en el centro de Quito,/noticias/judicial/12/tres-presuntos-delincuentes-fueron-aprehendidos-por-robo-de-celular-en-el-centro-de-quito,18 de agosto de 2021 07:04,"A través de su cuenta de Twitter, los agentes de control de Quito informaron que el martes 17 de agosto aprehendieron a tres presuntos delincuentes que habrían sustraído un teléfono celular a una ciudadana. El hecho ocurrió en el sector del Centro Comercial Hermano Miguel."
+13,Daniel Salcedo recibió una tercera condena de tres años,/noticias/justicia/12/danielsalcedo-recibio-tercera-condena-tres-anos-prision,17 de agosto de 2021 16:56,"Daniel Salcedo recibió una tercera condena de tres años de prisión y una multa de 1.600 dólares por el delito de ingreso de artículos prohibidos a la Cárcel 4, donde se encuentra recluido por el delito de peculado con una condena de 13 años. "
+14,Seis PPL fallecieron por amotinamiento en cárcel de Quevedo,/noticias/judicial/12/quevedo-registra-nuevo-amotinamiento,12 de agosto de 2021 15:07,La Policía Nacional confirmó que seis personas privadas de la libertad (ppl) fallecieron este jueves 12 de agosto de 2021 durante un amotinamiento en el Centro de Privación de Libertad de Quevedo. Las autoridades aún no esclarecen los motivos del hecho.
+15,Desmantelada una banda una banda que robaba y vendía droga,/noticias/judicial/12/desmantelada-una-banda-una-banda-que-robaba-y-vendia-droga,25 de noviembre de 2020 18:35,"Gracias a la operación “Mega Mercurio 6”, efectuada en Guayaquil este 24 de noviembre al mediodía, la Policía Nacional desarticuló una organización delictiva dedicada al robo a personas bajo la modalidad de asalto y, además, al tráfico de drogas. La banda tenía como lugar de concentración una vivienda en la avenida Portete y la calle 17. "
+16,Detenidos dos asaltantes que trataron de asesinar a un policía en Guayaquil,/noticias/judicial/12/detenidos-asaltantes-asesinar-policia-guayaquil,30 de septiembre de 2020 21:02,"El cabo de Policía, Diego Loza, resultó herido cuando intervino un intento de robo contra una ciudadana, en Guayaquil."
+17,Robaba automóviles y luego extorsionaba a las víctimas para devolverles lo sustraído,/noticias/judicial/12/robaba-automoviles-extorsionaba-victimas-sustraido,21 de septiembre de 2020 20:56,"El 20 de septiembre de 2020, un individuo desconocido contactó con una ciudadana y le exigió 1.700 dólares para devolverle su vehículo, caso contrario, dijo, empezaría a desmantelar su automotor. Ese mismo día, en Quito, la Unase realizó un allanamiento en el sector de Comité del Pueblo y logró ubicar e identificar al responsable de la extorsión, a quien lo puso a órdenes de las autoridades para su juzgamiento. Al individuo se le incautó un teléfono celular, una tarjeta SIM y 1.700 dólares. La víctima fue Glenda Jomaira Chauza Guamán, ecuatoriana de 20 años, de profesión comerciante. El aprehendido fue Darwin Gonzalo M., ecuatoriano de 56 años. Una vez finalizada la audiencia, el juez de flagrancia del Distrito Metropolitano de Quito dictó medidas sustitutivas a la prisión preventiva: prohibición de salida del país, presentación ante la autoridad competente y el inicio de la instrucción fiscal en procedimiento directo por 10 días. (I) "
+18,Banda de hackers robaba dinero de cuentas bancarias en Quito,/noticias/judicial/12/banda-hackers-dinero-cuentas-bancarias-quito,11 de septiembre de 2020 17:49,Seis venezolanos y una ecuatoriana conformaban una organización ilegal que utilizaba medios electrónicos para apropiarse de manera fraudulenta del dinero de los clientes del Banco del Pacífico mediante hackeos de cuentas bancarias.
+19,Robo de computadoras en edificio de la Contraloría del Estado,/noticias/judicial/12/robo-computadoras-contraloria-estado,03 de septiembre de 2020 18:36,"La Policía Judicial informó que este jueves 3 de septiembre, en el área de bienes de la Contraloría del Estado, edificio de la calle Juan Montalvo, se detectó un robo. En el séptimo piso, el sargento Jorge De Santos Espinoza reportó la sustracción de partes de computadoras. Luego, la especialista de bienes, Susana Marisol Ramírez Rodríguez, manifestó que la última vez que ellos llegaron a laborar fue el lunes 31 de agosto desde las 10:30 hasta las 11:00 y que habían dejado las oficinas con las debidas seguridades, pero que este jueves llegaron a las 09:00, observaron novedades y llamaron al ECU-911. En la inspección se comprobó que cinco CPU estaban desarmados, sin tarjetas de memoria, discos duros y procesadores. Además habían desaparecido dos computadores portátiles, marca Dell, un disco duro externo y un teléfono convencional. Según la Policía, en el lugar se observa que no cuenta con circuito cerrado de cámaras de videovigilancia y que en todo el edificio poseen un solo conserje que reside en el área de parqueaderos. Se verificó que las seguridades de una de las puertas de acceso al lugar fueron forzadas, aunque las demás oficinas no presentan novedad. Por las circunstancias del hecho, se solicitó apoyo a la Unidad de Criminalística. El teniente Francisco Paredes realizó la inspección ocular técnica en presencia del capitán José Flores, Jefe de Control del Distrito Manuela Sáenz. Contralor representó a Ecuador en sesiones preparatorias de la ONU sobre corrupción El contralor del Estado, Pablo Celi, representó al Ecuador en la Conferencia Preparatoria de la Asamblea de las Naciones Unidas contra la Corrupción. Durante su ponencia explicó los desafíos que enfrentan las entidades fiscalizadoras para resguardar los bienes públicos y los avances alcanzados en materia de cooperación regional. Desde su experiencia como autoridad, reveló los retos y el rol que deben asumir los organismos de control -particularmente de la región- para resguardar el interés público de las diversas formas de corrupción."
+20,Con inhibidores de señal evitaban que camioneros asaltados pidan ayuda,/noticias/judicial/12/implicados-robos-asesinatos-camioneros-detenidos,23 de julio de 2020 11:02,"Un grupo de asaltantes de camioneros, sobre todo de transporte de camarón, usaban inhibidores de señal para evitar que las víctimas pidan ayuda. Siete supuestos integrantes de este grupo delictivo, implicado en asalto y asesinato de choferes, fueron aprehendidos en un operativo ejecutado en el Km. 26 de la vía Durán-Yaguachi, provincia de Guayas."
+21,Chofer de bus se desvió a escuela militar para evitar robo,/noticias/judicial/12/chofer-de-bus-se-desvio-a-escuela-militar-para-evitar-robo,21 de julio de 2020 11:45,"El chofer de un bus se desvió de su ruta normal y se acercó a la garita de la Escuela de Infantería Aérea al darse cuenta que entre los pasajeros se levantaron delincuentes. El hecho ocurrió la noche del lunes 20 de julio de 2020, en la avenida Pedro Menéndez Gilbert, en el norte de Guayaquil."
+22,Dos detenidos por extorsionar a mujer tras robo de moto,/noticias/judicial/12/detenidos-extorsion-mujer-robo-moto,14 de julio de 2020 10:53,Una ciudadana era extorsionada luego del robo de su moto. Los agentes de la Unidad Antisecuestros y Extorsión (UNASE) detuvieron a dos individuos que supuestamente presionaban a la víctima para que diera dinero a cambio del liviano vehículo.
+23,Hombre falleció de un balazo en la cabeza por impedir un robo a su pareja,/noticias/judicial/12/robo-pareja,08 de julio de 2020 17:50,"Un hombre falleció la tarde del miércoles 8 de julio de 2020 tras recibir un impacto de bala, cuando trató de impedir un robo a su pareja. El hecho se registró en el sector de Iñaquito (norte de Quito)."
+24,PPL de altísima peligrosidad fueron cambiados de centro de rehabilitación,/noticias/judicial/12/ppl-altisima-peligrosidad-centro-rehabilitacion,24 de agosto de 2021 18:03,"27 personas privadas de la libertad (ppl) de máxima seguridad fueron trasladadas desde el centro de rehabilitación social de Cotopaxi, en Latacunga, hacia otras cárceles del país durante un operativo realizado la tarde de este martes 24 de agosto de 2021."
+30,Dos extranjeros robaron joyas en centro comercial de Quito,/noticias/judicial/12/dos-extranjeros-joyas,01 de julio de 2020 10:57,"Un robo de joyas se registró la tarde de ayer, martes 30 de junio, en una joyería de un centro comercial en el sector de La Carolina (norte de Quito)."
+31,El robo de pertenencias a Augusto Itúrburu sigue sin resolverse,/noticias/judicial/12/robo-pertenencias-augusto-iturburu,01 de julio de 2020 00:00,La última notificación de la Fiscalía le llegó a la familia de Augusto Itúrburu Carabajo el 26 de mayo. El aviso lo recibieron a través del correo electrónico.
+32,"Luchadores de UFC se solidarizan por ""robo"" a 'Chito' Vera",/noticias/otros-deportes/7/ufc-chito-vera-comentarios-yandong,17 de mayo de 2020 17:26,"La derrota del luchador ecuatoriano de artes marciales mixtas, Marlon ‘Chito’ Vera, continuó como tendencia mundial por la polémica decisión de los tres jueces que le dieron la victoria al chino Song Yadong en el UFC Florida del sábado 16 de mayo de 2020. Peleadores internacionales expresaron su respaldo a ‘Chito’ por lo sucedido."
+33,Privados de libertad investigados por robo en bodega de productos de Regional Guayas,/noticias/judicial/12/privados-libertad-robo-bodega-productos-regional-guayas,07 de mayo de 2020 10:10,"Por la sustracción de productos de la bodega de economato del Centro de Privación de Libertad Zonal 8, Regional Guayas, se abrió una investigación para determinar a los responsables del delito y el perjuicio ocasionado."
+34,Un adulto y un menor robaban bienes en una escuela de Ambato,/noticias/judicial/12/robo-escuela-ambato,24 de abril de 2020 11:16,"Un adulto y un menor fueron descubiertos cuando se escondían en la terraza de una escuela con objetos robados. Los dos hombres tenían tres computadoras portátiles, dos dispositivos de conexión de internet, un parlante, dos teléfonos celulares y una impresora."
+35,27 sectores de Guayaquil afectados por robo de cables telefónico,/noticias/guayaquil/2/guayaquil-robo-cables-cnt,15 de abril de 2020 15:08,"Los robos de cables telefónicos se registraron en 27 sectores de Guayaquil, desde el 9 de marzo hasta el 7 de abril. Esta situación afectó a 9.500 familias abonadas al servicio, que es necesario durante la emergencia sanitaria por el covid-19."
+36,Gabarra con camarón fue saqueada dos veces en Guayaquil,/noticias/judicial/12/gabarra-con-camaron-fue-saqueada-dos-veces-en-guayaquil,14 de abril de 2020 10:00,La imagen se repite constantemente. Las personas salen de sus casas y callejones y en masa se suben a la gabarra que se pega al muelle. Unas treinta personas saquearon una gabarra que transportaba camiones con camarón.
+37,Ecuatorianos denuncian robo de equipaje en vuelo humanitario,/noticias/judicial/12/robo-vuelo-humanitario,13 de abril de 2020 17:52,Ecuatorianos que retornaron al país desde Miami - Estados Unidos denunciaron a través de redes sociales el robo de algunas pertenencias que les fueron sustraídas de su equipaje en un vuelo humanitario.
+38,Coronarivus: Ladrones roban miles de mascarillas en Alemania,/noticias/mundo/8/coronarivus-ladrones-mascarillas-alemania,17 de marzo de 2020 09:17,"Ladrones robaron casi 50.000 mascarillas protectoras destinadas a clínicas médicas en Colonia, Alemania."
+45,Roban más de $15 millones de un camión blindado en Chile,/noticias/mundo/8/robo-millones-camion-blindado-chile,10 de marzo de 2020 08:06,"Ladrones fuertemente armados sustrajeron el lunes 9 de marzo una suma equivalente a más de 15 millones de dólares de un camión blindado en el aeropuerto de Santiago, en uno de los mayores robos en el país, informó la policía chilena."
+46,"Detienen a ""La Chilena"", mujer que vació casa donde le dieron posada",/noticias/judicial/12/detenida-chilena-robo-casa-posada,06 de marzo de 2020 11:00,"La mujer conocida como ""La Chilena"" y denunciada por vaciar una casa donde le dieron posada fue capturada en Guayaquil. La joven fue identificada como María Fernanda E. S., de 29 años, estaba en una vivienda ubicada en el sector de Monte Sinaí, en el noroeste de la urbe."
+47,"Siete procesados en Bolívar se robaron celulares, un vehículo y hasta un perro",/noticias/judicial/12/procesados-bolivar-robo-perro,27 de febrero de 2020 09:53,"El juez de Garantías Penales de Bolívar dictó prisión preventiva contra Erika Fernanda T. G., Édgar Patricio Ch. I., Jessica Alexandra Ch. I., Mayra Cristina L. P., Byron Vinicio C. M. y Víctor Hugo Ch. I., mientras que para W. I. Ch. I. (12 años) resolvió internamiento preventivo, por el presunto delito de asociación ilícita."
+48,Perú recuperó manuscrito inca escrito por un descendiente de Huayna Capac,/noticias/cultura/10/peru-recupero-manuscrito-inca-escrito-por-un-descendiente-de-huayna-capac,21 de febrero de 2020 16:07,Perú dio a conocer un manuscrito invaluable que contiene las memorias de ex líderes incas que habían desaparecido durante la ocupación chilena de Lima durante la Guerra del Pacífico de 1879-84.
+49,Delincuentes incendian cajero en centro de revisión vehicular de Capulispamba,/noticias/regional-sur/2/incendio-cajero-centro-revision-vehicular-capulispamba,14 de enero de 2020 12:14,"La atención en el Centro de Revisión Técnica Vehicular (RTV) de Capulispamba (norte de Cuenca) fue suspendida este martes 14 de enero del 2020, luego de que delincuentes provocaran un incendio al intentar robar un cajero automático en el interior de sus instalaciones. "
+50,"Por agujero, delincuentes entran a robar en entidad financiera",/noticias/judicial/12/agujero-robo-entidad-financiera,06 de enero de 2020 13:12,"Delincuentes hicieron un agujero para robar en la cooperativa de ahorro y crédito Cooprogreso, situada en la esquina de las calles 9 de Octubre y José Mascote, en el centro de Guayaquil. El hecho fue reportado la mañana de este lunes 6 de enero de 2020 y en el sitio se encuentra personal policial para recabar indicios."
+51,Retenidos cuatro sospechosos de robo en la Ecovía,/noticias/quito/2/sospechosos-robo-ecovia,05 de enero de 2020 12:58,"Cuatro personas han sido retenidas en el sistema de transporte municipal tras ser señaladas como sospechosos de robo en una unidad de la Ecovía en la capital del país, se conoció retenidas este sábado 4 de enero de 2020."
+52,Motorizado fue herido de bala durante robo en Guayaquil,/noticias/judicial/12/bala-robo-guayaquil,02 de enero de 2020 15:33,"Eddy, de 31 años, fue herido de bala en el muslo de su pierna izquierda durante un robo en Guayaquil. El hecho ocurrió la madrugada de este martes 2 de enero de 2019."
+53,Ilegales pide ayuda para recuperar sus instrumentos en España,/noticias/carton-rock/1/ilegales-robo-instrumentos-espana,16 de diciembre de 2019 15:27,"Al concierto ""glorioso"" y ""eufórico"" que Ilegales dio el viernes 13 de diciembre de 2019, en la sala Razzmatazz de Barcelona, le sobrevino una madrugada injusta."
+54,Roban datos bancarios de unos 29.000 empleados de Facebook,/noticias/mundo/8/roban-datos-bancarios-empleados-facebook,14 de diciembre de 2019 18:00,"Información bancaria de cerca de 29.000 empleados de Facebook que se encontraba almacenada en discos duros sin encriptar ha sido robada del automóvil de uno de los trabajadores de la compañía, informó este viernes 13 de diciembre de 2019 Bloomberg."
+61,Adulta mayor murió en un robo en su casa en Guayaquil,/noticias/judicial/12/adulta-mayor-robo-guayaquil,10 de diciembre de 2019 13:37,"Una adulta mayor de aproximadamente 70 años fue encontrada muerta, la mañana de este 10 de diciembre de 2019, en una vivienda ubicada en el recinto Bajo Verde, por la comuna Casas Viejas, a la altura del kilómetro 22 de la vía a La Costa, en Guayaquil."
+62,Consumo de droga y robo de cajetines,/noticias/cartas-al-director/1/consumo-droga-robo-cajetines,30 de noviembre de 2019 00:00,"Se está haciendo costumbre que consumidores de “H” en la zona céntrica de Guayaquil, en 9 de Octubre y Baquerizo Moreno o el sector de P. Icaza, se aprovechan del ancho de los pilares estructurales para realizar consumo de droga, necesidades biológicas y en la noche y madrugada, entre la 01:00 y 03:00, el robo de tapas de cajetines de fibra o cable, de tapas de registros, rejillas de transformadores, medidores de agua, reflectores, simplemente el centro de la ciudad, en la madrugada, es tierra de nadie. "
+63,Roban equipos tecnológicos de la final de la Libertadores,/noticias/futbol-internacional/7/roban-equipos-tecnologicos-libertadores,22 de noviembre de 2019 10:15,"A un día de la final entre River y Flamengo, la prensa peruana reseña un robo de equipos tecnológicos en el estadio Monumental de Lima. El hecho ocurrió la noche del miércoles.  "
+64,Una fuente radioactiva fue sustraída en el sur de Quito,/noticias/judicial/12/fuente-radioactiva-sustraida-quito,07 de noviembre de 2019 00:51,"Un densímetro nuclear de la Universidad Politécnica Salesiana de Quito, fue robado aproximadamente a las 14:00 del miércoles 6 de noviembre. el equipo contiene una fuente radioactiva que emite radiación ionizante."
+65,Tres procesados por robo y daños en la Contraloría,/noticias/judicial/12/procesados-robo-danos-contraloria,11 de octubre de 2019 00:00,"Presentación periódica cada cuatro días ante la justicia, prohibición de salida del país y de acercarse a cualquier institución pública, son las medidas impuestas a tres procesados por el ataque al edificio de la Contraloría General del Estado (CGE) la noche del lunes 7 de octubre de 2019."
+66,"Cabecilla de banda dedicada al secuestro, extorsión y asalto registra 17 detenciones",/noticias/judicial/12/cabecilla-banda-secuestro-extorsion-asalto-detenciones,20 de septiembre de 2019 12:29,"Como resultado de tres meses de investigación, la madrugada de este viernes 20 de septiembre del 2019, la Policía Nacional desarticuló una banda delictiva que operaba en las provincias de Pichincha, Santo Domingo de los Tsáchilas y Los Ríos."
+67,"Información vulnerada de datos es responsabilidad del Estado, dice experto en seguridad",/noticias/tecnologia/6/informacion-vulnerada-datos-responsabilidad-estado-seguridad,17 de septiembre de 2019 12:02,"Diego Pérez, catedrático universitario, experto en seguridad y defensa, dio una entrevista este martes 17 de septiembre de 2019, en el programa Primera Impresión de Ecuador TV, donde compartió su punto de vista sobre el presunto delito de violación a la intimidad, luego de que se conociera sobre la filtración de información de cerca de 20 millones de ecuatorianos."
+68,"Policía desarticula 18 bandas delictivas, entre el jueves y el domingo",/noticias/judicial/12/policia-bandas-delictivas-detenidos,17 de septiembre de 2019 00:00,"En 250 operativos policiales realizados entre el jueves y el domingo pasados, en 22 provincias del país fueron desarticuladas 18 bandas delictivas."
+69,Tres estudiantes procesados por robo al no devolver dinero que hallaron en la calle,/noticias/judicial/12/estudiantes-robo-dinero-calle,10 de septiembre de 2019 16:54,"El juez de Garantías Penales, José Ortega Cadena, dictó la prisión preventiva contra cuatro personas, entre ellas tres jóvenes estudiantes, por el presunto delito de robo, informó la Fiscalía. "
+70,Directora del Archivo Histórico confirmó la desaparición del Testamento de Eugenio Espejo,/noticias/cultura/10/desaparicion-testamento-eugenio-espejo,07 de septiembre de 2019 14:15,"El Ministerio de Cultura (MCyP) emitió este sábado 7 de septiembre del 2019 un comunicado respecto a la desaparición de los folios 456 y 457 del Libro de escrituras públicas 112 (Notaría 6, Serie de protocolos, año 1795), correspondientes al ""Testamento de Eugenio Espejo"", prócer de la Independencia, y que tenía como repositorio al Archivo Histórico Nacional."
+77,Partes robadas de carros se venden en tres sectores,/noticias/judicial/12/piezas-robadas-carros-ayacucho-cachineria,03 de septiembre de 2019 00:00,"El robo de partes y accesorios de vehículos es uno de los delitos que han decaído a nivel nacional en el primer semestre de este año, según el Ministerio de Gobierno."
+78,Policía frustra asalto a entidad bancaria en Naranjal,/noticias/judicial/12/amenaza-bomba-naranjal,30 de agosto de 2019 12:20,"La Policía Nacional frustró este viernes 30 de agosto del 2019 un asalto a una agencia de BanEcuador en el cantón Naranjal, provincia del Guayas. La alerta se generó aproximadamente a las 09:20 y se advertía del ingreso a la sucursal de un hombre y una mujer, presuntamente con material explosivo adherido a sus cuerpos. "
+79,La jueza que dejó libre a 8 procesados en caso Sinaí es separada de área penal,/noticias/judicial/12/jueza-procesados-caso-sinai-area-penal,29 de agosto de 2019 00:00,La jueza Tatiana A. no conocerá otras causas de tipo penal mientras dure la investigación  relacionada con su actuación en el caso Monte Sinaí.
+80,Delincuentes disparan tras robar en panadería de Urdesa,/noticias/judicial/12/delincuentes-robo-panaderia-urdesa,26 de agosto de 2019 09:51,"Dos individuos asaltaron a clientes que desayunaban en una panadería ubicada en las calles Víctor Emilio Estrada y Laureles, en la ciudadela Urdesa, en el norte de Guayaquil."
+81,Implicado en robo aseguró que Vanessa era cómplice,/noticias/judicial/12/robo-olga-vanessa-complicidad,12 de agosto de 2019 00:00,Javier C.L. aceptó que participó en el robo que terminó con la muerte de madre e hija.
+82,Hacker roba datos de 106 millones de clientes del banco Capital One,/noticias/mundo/8/hacker-robo-datos-106-millones-clientes-banco-capital-one,30 de julio de 2019 12:00,"El banco Capital One Financial, con sede en Estados Unidos, fue objetivo de un pirata informático, que accedió a los datos personales de 106 millones de sus clientes, en uno de los mayores robos de información a una compañía de servicios financieros del país, informó la empresa este martes 30 de julio de 2019 a través de un comunicado."
+83,Asaltante amenazó a cajera con foto de su casa y se llevó $6.000,/noticias/judicial/12/asaltante-amenazo-foto-casa-cajera-6000,19 de julio de 2019 12:59,"Una agencia bancaria ubicada dentro del mercado Caraguay, en el sur de Guayaquil, fue asaltada la mañana de este 19 de julio."
+84,"Kenig, investigado por robo de carros en Argentina, habla de difamación",/noticias/judicial/12/alejandrokenig-investigacion-robo-carros-argentina,11 de julio de 2019 20:51,"La fiscal María Laura Martí pidió la captura del exfutbolista Alejandro “El Tanque” Kenig, luego de vincularlo a una banda investigada por el robo de dos camionetas 4×4 en Santa Fe, Argentina."
+85,Comerciantes de la plaza San Francisco son víctimas de robos,/noticias/regional-sur/2/comerciantes-plazasanfrancisco-victimas-robos,10 de julio de 2019 16:30,"Tres robos ocurridos en la plazoleta de San Francisco, en el centro de Cuenca, se suman a una serie de hurtos sucedidos en las últimas semanas en la capital azuaya."
+86,Policía desarticula banda dedicada al asalto y robo de automotores,/noticias/judicial/12/policia-desarticula-banda-robo-automotores,05 de julio de 2019 22:10,"Cuatro integrantes una banda dedicada al robo de vehículos, fueron detenidos por la Policía la mañana de este viernes 5 de julio en el sector del Guasmo, oeste de Guayaquil, cuando se encontraban en posesión de dos automóviles que habían sido sustraídos horas antes."
+93,Detenido dijo que se llevó bicicleta de vigilante por confusión,/noticias/judicial/12/robo-bicicleta-vigilante-atm,21 de junio de 2019 10:00,"Un ciudadano fue capturado por hurtar una bicicleta de un agente de la Autoridad de Tránsito Municipal (ATM). El hecho ocurrió la noche del 20 de junio, en la avenida Plaza Dañín, en el norte de Guayaquil."
+94,Por un celular condenan a un hombre a 18 meses de cárcel en Ambato,/noticias/judicial/12/condena-hombre-ambato-robo-celular,21 de junio de 2019 09:51,"En audiencia de procedimiento abreviado realizada el jueves 20 de junio, el Tribunal de Garantías Penales de Ambato declaró culpable del robo de un celular a Joffre G.Q. y lo sentenció a un año seis meses de privación de la libertad."
+95,Guardia fallece por herida de bala en robo de una camaronera,/noticias/judicial/12/guardia-fallece-robo-camaronera,08 de mayo de 2019 18:12,"Murió en el cumplimiento de su deber. Una persona falleció el 8 de mayo por impacto de bala cuando trataba de proteger una camaronera en el sector de la Isla Esperanza, donde era guardia de seguridad. "
+96,Pertenencias de Salvador Allende fueron robadas en Chile,/noticias/mundo/8/pertenencias-allende-robo-chile,21 de abril de 2019 10:13,"Varios objetivos personales que pertenecieron al expresidente de Chile Salvador Allende fueron robados del palacio Heiremans, en esta capital, reportaron el domingo 21 de abril medios de prensa."
+97,Parque inclusivo de Riobamba fue objeto de vandalismo y robo,/noticias/regional-centro/2/parqueinclusivo-riobamba-vandalismo-robo,08 de abril de 2019 12:15,"A 10 días de haberse inaugurado el parque inclusivo en Riobamba, las autoridades reportaron que vándalos dañaron los juegos e incluso se sustrajeron el asiento diseñado exclusivamente para una persona con más del 80% de discapacidad."
+98,En 77 días roban 86.165 celulares a nivel nacional,/noticias/judicial/12/celulares-robo-hurto-policia-fiscalia,04 de abril de 2019 00:00,"Gabriel fue víctima del robo de su teléfono celular hace pocos días. Recuerda que el asalto ocurrió a bordo de un bus en la vía Perimetral, una de las más conflictivas de Guayaquil."
+99,Cuatro personas fueron detenidas por robar en locales de centro comercial,/noticias/judicial/12/cuatro-detenidos-robo-centro-comercial,25 de marzo de 2019 08:30,Cuatro personas fueron detenidas en momentos que presuntamente robaban mercadería en almacenes de un centro comercial en el norte de Guayaquil.
+100,Detenidos en España dos ancianos que atracaban bancos,/noticias/mundo/8/detenidos-espana-ancianos-asaltos-bancos,23 de marzo de 2019 18:14,"La Policía española detuvo a dos ancianos de 73 y 80 años acusados de atracar sucursales bancarias en Barcelona (noreste) disfrazados y con armas de fuego, para después huir con el botín en transporte público."
+101,Hombre asesina de un tiro a vecino por supuesto robo de ropa interior,/noticias/judicial/12/asesinato-vecino-robo-ropainterior,18 de marzo de 2019 19:37,"Una persona falleció el domingo 17 de marzo de 2019, debido a una herida de bala en el sector de Socio Vivienda, al norte de Guayaquil."
+102,Policía detiene a cuatro personas por robo en consulado de Venezuela,/noticias/judicial/12/policia-robo-consulado-venezuela,21 de febrero de 2019 13:38,"Dos hombres y dos mujeres fueron capturados por su presunta participación en el robo de $ 24.000 en el consulado de Venezuela, ubicado en un edificio en la avenida Juan Tanca Marengo, norte de Guayaquil."
+109,Asaltan en consulado de Venezuela de Guayaquil,/noticias/judicial/12/personas-armadas-consulado-venezuela-guayaquil,20 de febrero de 2019 20:42,Un grupo de siete asaltantes irrumpió el miércoles 20 de febrero en el Consulado General de Venezuela en Guayaquil (Guayas). Los asaltantes robaron la recaudación consular entre insultos y vejaciones a los trabajadores y usuarios de la legación diplomática.
+110,Operativos dejan varios detenidos por robo y extorsión,/noticias/judicial/12/operativos-detenidos-robo-extorsion,15 de febrero de 2019 10:00,"La Policía Nacional de Ecuador informó este viernes 15 de febrero de varios operativos en diferentes provincias del país, algunos de los cuales terminaron con el arresto de sospechosos por los delitos de robo y extorsión."
+111,Delincuentes roban dinero de cajero automático recién habilitado,/noticias/judicial/12/delincuentes-cajeroautomatico-robo,09 de febrero de 2019 17:00,"Un grupo de ladrones se tomó alrededor de tres horas para llevarse el dinero de un cajero automático recién habilitado en un edificio de la ciudadela Acuarela del Río, en el norte de Guayaquil. Los individuos usaron equipos de soldadura autógena para cortar la estructura metálica y extraer los billetes colocados la tarde anterior."
+112,2.408 denuncias de robo se receptan durante 2019,/noticias/judicial/12/denuncias-robo-policia-judicial-ecuador,08 de febrero de 2019 00:00,"Andrés (nombre protegido) salió de su trabajo a las 19:30 del martes pasado. Subió a su vehículo rumbo a su casa, en el norte de Quito."
+113,Detenidos 16 vinculados a robo de entidad bancaria en Manta,/noticias/judicial/12/manta-detenidos-robo-entidadbancaria,30 de enero de 2019 11:16,La Subdirección de Inteligencia Antidelincuencial de la Policía Nacional ejecutó la madrugada de este miércoles 30 de enero el operativo Avalancha 6. Se realizaron 22 allanamientos y se detuvo a 16 personas.
+114,Las FF.AA. detectan tubería para robar combustible estatal,/noticias/judicial/12/militares-tuberia-combustible,27 de diciembre de 2018 14:08,"Efectivos de las Fuerzas Armadas (FF.AA.) detectaron una conexión clandestina en el sistema de tuberías petroleras en un sector rural de la provincia de Sucumbíos, desde donde se robaban combustible."
+115,Reina de Quito denunció el robo de su celular,/noticias/judicial/12/reina-quito-robo-celular,26 de diciembre de 2018 13:34,"A través de su cuenta de Facebook, la reina de Quito, Daniela Almeida (foto), manifestó su rechazo en contra de la delincuencia, producto del cual vivió ""los peores momentos"" de su vida."
+116,Un millón de dólares sería el monto sustraído a entidad bancaria en Manta,/noticias/judicial/12/millon-dolares-robo-entidadbancaria-manta,10 de diciembre de 2018 13:56,"La cantidad de un millón de dólares fue mencionada en el parte policial en torno al robo el 9 de diciembre a una agencia de una entidad bancaria que está ubicada en el interior de un centro comercial, situado sobre la Avenida Cuatro de Noviembre, al suroeste de Manta."
+117,Robo a un banco se registró en centro comercial de Manta,/noticias/judicial/12/robo-banco-manta,09 de diciembre de 2018 19:00,"La mañana del domingo 9 de diciembre, un movimiento fuera de lo común se registró en el interior de un centro comercial ubicado a 500 metros de playa El Murciélago, en Manta"
+118,Agentes frustraron robo de $ 10.000 en local de lotería al sur de Guayaquil,/noticias/judicial/12/robo-frustado-loteria-guayaquil,30 de noviembre de 2018 09:58,"Ocho personas intentaron robar en un local de lotería situado en la parte baja del estadio George Capwell, en el sur de Guayaquil. A las 03:30 de este viernes 30 de noviembre, un policía que pasaba por el sitio vio la puerta enrollable abierta y alertó a otros agentes."
+125,Ciudadano fue detenido cuando robaba partes de paradero urbano en Guayaquil,/noticias/judicial/12/detenido-robo-paradero-urbano,25 de octubre de 2018 04:20,"La Policía detuvo a un ciudadano en momentos que intentaba hurtarse algunas partes de uno de los paraderos urbanos recientemente instalados en la avenida Rodríguez Bonín, en la parada de la urbanización Jardines del Salado, norte de Guayaquil."
+126,Policía desarticula banda dedicada a robo de locales comerciales en Manta,/noticias/judicial/12/banda-desarticulacion-robo-localescomerciales-manta,07 de septiembre de 2018 16:43,"La Policía Nacional logró la detención de dos ciudadanos y el aislamiento de un adolescente, presuntos integrantes de un grupo dedicado al robo en locales comerciales de Manta, provincia de Manabí."
+127,Prisión preventiva para seis detenidos por robo en el norte de Guayaquil,/noticias/judicial/12/prision-preventiva-detenidos-robo-guayaquil,30 de agosto de 2018 00:05,"Policías del Distrito Modelo interceptaron sobre la avenida. de Las Américas y Joaquín Orrantia, norte de Guayaquil, un vehículo Hyundai Accent blanco y aprehendieron a sus seis ocupantes por el presunto delito contra la propiedad (robo)."
+128,"Bandas dedicadas al robo, estafa y piratería marítima caen en megaoperativo",/noticias/judicial/12/bandas-robo-estafa-pirateriamaritima-megaimpacto11,16 de agosto de 2018 11:46,"Detenidas 20 personas en operativos contra la delincuencia realizados en las provincias ecuatorianas de Esmeraldas, Santo Domingo de los Tsáchilas, Manabí y Guayas, informó el Ministerio del Interior."
+129,Armada recupera en Esmeraldas una embarcación que fue robada en Manta,/noticias/judicial/12/armada-manabi-esmeraldas-robo,06 de agosto de 2018 17:35,"La Armada del Ecuador, a través de la Dirección Nacional de los Espacios Acuáticos (Dirnea), informó que el Subcomando de Guardacostas Norte recuperó una embarcación reportada como robada."
+130,Sospechoso de robar en oficina de la CTE portaba un grillete,/noticias/judicial/12/sospechoso-robo-cte-dispositivo-rastreo,08 de julio de 2018 00:00,Uno de los cuatro individuos que supuestamente participó en un asalto en las instalaciones de la Comisión de Tránsito del Ecuador (CTE) portaba un dispositivo de vigilancia electrónica en la pierna derecha.
+131,Plan “Vehículo Seguro” bajará el robo de autos,/noticias/judicial/12/plan-vehiculo-seguro-ecuador,28 de junio de 2018 00:00,"En el Distrito La Delicia, en el norte de Quito, la Policía Nacional implementará el proyecto “Vehículo Seguro”, que es un programa de prevención contra el robo de accesorios de autos en el sector."
+132,"Sospechosos de crimen de mujer, tras las rejas",/noticias/judicial/12/femicidio-guayaquil-captura-sospechoso,21 de junio de 2018 00:00,"Los hermanos Kléver Ismael y Franklin David B. N., de 28 y 33 años, respectivamente, fueron aprehendidos como sospechosos del asesinato de Isabel Margarita Loor Antepara, ocurrido la mañana del último martes en el sur de Guayaquil."
+133,Ladrón golpea amujer y le arrebata el celular,/noticias/judicial/12/asalto-celular-violencia-guayaquil,13 de junio de 2018 00:00,"Con un puñete en el estómago y cuatro jalones que la tumbaron al piso, un delincuente sometió a una joven y le sustrajo su teléfono celular, a las 14:00 del lunes último."
+134,Roban datos de 92 millones de usuarios de la web genealógica MyHeritage,/noticias/tecnologia/6/myheritage-datos-robo,07 de junio de 2018 07:32,"Direcciones de correo electrónico de más de 92 millones de usuarios del sitio genealógico MyHeritage, con sede en Or Yehuda (a las afueras de Tel Aviv), han sido robados, informó este jueves 7 de junio el económico israelí Calcalist."
+141,El Gobernador de Azuay denuncia robo de dinamita,/noticias/regional-sur/2/robo-dinamita-rio-blanco-azuay,05 de junio de 2018 00:00,"El gobernador de la provincia de Azuay, Xavier Enderica, denunció que más de 2.600 tacos de dinamita fueron sustraídos por los manifestantes, el anterior 8 de mayo, cuando intentaron tomarse el campamento minero de Río Blanco, en el cantón Cuenca."
+142,Miembro de banda delictiva en Quito cuenta con 14 arrestos por robo,/noticias/judicial/12/integrante-banda-delictiva-quito-14-arrestos-robo,16 de mayo de 2018 09:57,"Una banda dedicada al robo de vehículos y accesorios fue desarticulada este miércoles 16 de mayo, al norte de Quito.  Se trató del operativo 'Luz de América 22', a través del cual fueron detenidos cuatro individuos que tienen antecedentes penales. Uno de ellos cuenta con 14 arrestos por robo."
+143,"Robaron el traje de ""Iron Man"", valorado en $ 325.000",/noticias/espectaculos/10/robo-traje-iron-man,09 de mayo de 2018 18:22,Llamen a The Avengers: alguien se ha robado el traje de Iron Man. La policía de Los Ángeles informó que el traje dorado y rojo que utilizó Robert Downey Jr en la premier de la saga del superhéroe en 2008 fue reportado desaparecido del almacén donde estaba guardado.
+144,Policía desarticula banda que robó $ 250.000 de banco en Guayaquil,/noticias/judicial/12/detenidos-robo-banco-guayaquil,27 de abril de 2018 17:00,"La Policía, a través de la operación ""Impacto 161"", desarticuló la madrugada de este viernes 27 de abril una banda dedicada al robo de unidades comerciales y entidades financieras, tenencia de armas, tráfico de sustancias sujetas a fiscalización, entre otros."
+145,Ladrones exigían hasta $ 300 por motos y $ 3.000 por carros robados,/noticias/judicial/12/robo-carros-extorsion-guayaquil,26 de abril de 2018 13:28,Un policía y un militar constan entre los 9 detenidos por supuestamente conformar una red delictiva dedicada principalmente al robo de carros.
+146,Estatua de Alberto Spencer no fue robada; está en mantenimiento,/noticias/guayaquil/2/estatua-de-alberto-spencer-no-fue-robada-esta-en-mantenimiento,19 de marzo de 2018 12:20,"Varios ciudadanos del centro de Guayaquil, específicamente de las calles Luzurraga y Panamá, reportaron esta mañana la ""desaparición"" de la estatua en honor del goleador ecuatoriano Alberto Spencer."
+147,Encuentran a dos niños que estaban en un taxi cuando fue hurtado en Ecuador,/noticias/judicial/12/encuentran-a-dos-ninos-que-estaban-en-un-taxi-cuando-fue-hurtado-en-ecuador,11 de marzo de 2018 13:33,"El Ministerio ecuatoriano del Interior informó hoy de la localización de dos niños que estaban en el interior de un taxi cuando el vehículo fue hurtado en la capital, Quito."
+148,Operativo 'Impacto 68' deja 4 detenidos por robo y microtráfico,/noticias/judicial/12/operativo-impacto-68-deja-4-detenidos-por-robo-y-microtrafico,19 de febrero de 2018 10:30,"A través de la cuenta de Twitter de la Policía Nacional, se informó que se desarticuló un grupo delictivo dedicado al robo y microtráfico. Su centro de operaciones era el sector norte y centro de Guayaquil."
+149,Policía recupera otras 11 computadoras de las robadas en una unidad educativa,/noticias/judicial/12/policia-recupera-mas-computadoras-de-las-robadas-en-unidad-educativa,04 de febrero de 2018 16:04,"Agentes de la Policía recuperaron 11 laptops del lote de las 63 que fueron robadas el 24 de enero pasado de la Unidad Educativa ""Tránsito Amaguaña"", ubicada en la cooperativa Balerio Estacio, en el noreste de Guayaquil, informó hoy esa institución. "
+150,'Operativo 44' desarticuló a banda dedicada al robo en buses,/noticias/judicial/12/operativo-44-desarticulo-a-banda-dedicada-al-robo-en-buses,01 de febrero de 2018 12:23,"Miembros de la Subdirección Nacional de Investigación Contra el Delito de Derecho a la Propiedad (Sidpro-BAC), en coordinación con la Fiscalía, ejecutaron el operativo 'Impacto 44'. La acción antidelictiva detuvo a presuntos integrantes de una banda dedicada al robo en buses interprovinciales e intercantonales."
+157,Cae banda de delincuentes que operaban en Cotopaxi y Pichincha,/noticias/judicial/12/cae-banda-de-delincuentes-que-operaban-en-cotopaxi-y-pichincha,30 de enero de 2018 15:11,"“Impacto 41” se denominó al operativo en el que la Policía Nacional desarticuló una presunta banda de delincuentes que allanaban domicilios, robaban celulares, carros, entre otros, en las ciudades de Pichincha y Cotopaxi."
+158,"Hallan la botella de vodka ""más cara del mundo"", pero vacía",/noticias/mundo/8/hallan-la-botella-de-vodka-mas-cara-del-mundo-pero-vacia,05 de enero de 2018 11:55,"La botella de vodka, considerada la ""más cara del mundo"" y robada de un bar en Copenhague a principios de semana, fue hallada vacía en una obra pública este viernes, informó la policía."
+159,'Mega Fortaleza 6' detuvo a 14 personas en varias provincias,/noticias/judicial/12/operativo-mega-fortaleza-6-detuvo-a-14-personas-en-varias-provincias,22 de diciembre de 2017 13:41,"Catorce personas fueron detenidas por presunta compra y venta de objetos de dudosa procedencia, informaron este martes autoridades de la Policía Judicial de Pichincha."
+160,Lancha recuperada fue entregada a su dueña,/noticias/regional-manabi/2/lancha-recuperada-fue-entregada-a-su-duena,27 de noviembre de 2017 18:11,"Carmen Santana, de Puerto López, sintió alegría al ver nuevamente su lancha que fue recuperada, tras haber sido sustraída hace 15 días. Ella recibió, a través de autoridades marítimas, la embarcación la tarde de este lunes 27 de noviembre, en los predios de la Capitanía del Puerto de Manta, acompañada de varios familiares."
+161,'Fortaleza 44' desarticuló presunta banda que robaba en entidades financieras,/noticias/judicial/12/fortaleza-44-desarticulo-presunta-banda-que-robaba-en-entidades-financieras,16 de agosto de 2017 13:15,"Miembros de la Unidad de Inteligencia Antidelincuencial (UIAD) de la Policía Nacional, el Grupo de Intervenciones y Rescate (GIR), y 70 gendarmes de varios circuitos de la Policía Comunitaria de Guayaquil intervinieron esta madrugada en la desarticulación de una presunta organización delincuencial que se dedicaba al robo en entidades financieras."
+162,Policía detuvo a dos personas por presunto robo en la Metrovía,/noticias/guayaquil/2/policia-detuvo-a-dos-personas-por-presunto-robo-en-la-metrovia,19 de julio de 2017 20:55,"Dos presuntos implicados en cometer robos mediante el sistema de descuideros  fueron arrestados por personal del Grupo de Operaciones Motorizadas (GOM), del Circuito La Atarazana de la Policía, en el interior de la parada de la Metrovía, de la Av. Pedro Menéndez Gilbert y Plaza Dañín."
+163,Dos extranjeros detenidos por intento de robo en el centro de Guayaquil,/noticias/judicial/12/dos-extranjeros-detenidos-por-intento-de-robo-en-el-centro-de-guayaquil,25 de mayo de 2017 18:16,"En un local en las calles 9 de Octubre entre Córdova y Pedro Carbo, centro de Guayaquil, un venezolano y un colombiano menor de edad fueron detenidos por el presunto intento de robo de $ 1.270 pertenecientes a una empresa fotográfica."
+164,Tres extranjeros detenidos por estruche de vivienda en Guayaquil,/noticias/judicial/12/tres-extranjeros-detenidos-por-estruche-de-vivienda-en-guayaquil,24 de mayo de 2017 16:50,"Cuatro personas, entre ellas tres de nacionalidad venezolana, fueron detenidas en el norte de Guayaquil como presuntos miembros de una banda dedicada al estruche de viviendas en urbanizaciones y otros delitos contra las personas y propiedad privada."
+165,Robo de combustible detona enfrentamientos que dejan 10 muertos en México,/noticias/mundo/8/robo-de-combustible-detona-enfrentamientos-que-dejan-10-muertos-en-mexico,04 de mayo de 2017 16:21,"Al menos 10 muertos, 4 de ellos militares, se registraron en el marco de enfrentamientos provocados por el robo de combustibles a los de ductos de la paraestatal mexicana Pemex."
+166,Policía recupera embarcaciones y motores fuera de borda robados en camaronera,/noticias/judicial/12/policia-recupera-embarcaciones-y-motores-fuera-de-borda-robados-en-camaronera,26 de abril de 2017 17:40,"Un equipo de agentes de la Policía Judicial de la Zona 8 investiga los robos que se vienen cometiendo en las camaroneras ubicadas en el golfo de Guayaquil. Como parte de las pesquisas fueron recuperados en el cantón Daule 2 embarcaciones y 2 motores fuera de borda presuntamente sustraídos en la camaronera La Fortuna, ubicada a la salida del Puerto Marítimo."
+173,Cuatro detenidos por robo de armas en camaronera de Durán,/noticias/judicial/12/cuatro-detenidos-por-robo-de-armas-en-camaronera-de-duran,25 de abril de 2017 19:00,"Un operativo policial efectuado a la medianoche del martes, en el kilómetro 7,5 de la vía a Taura, permitió la captura de cuatro presuntos miembros de una red delictiva implicados en la venta de las armas de fuego robadas a los guardias de seguridad de la compañía Ecusegu, que custodiaban una camaronera en el cantón Durán."
+174,Tres detenidos por asalto a locales comerciales en Guayaquil,/noticias/judicial/12/cuatro-detenidos-por-asalto-a-locales-comerciales-en-guayaquil,21 de abril de 2017 16:25,Personal del Distrito Pascuales detuvo a 3 presuntos implicados en el asalto a un restaurante la madrugada del viernes en el norte de Guayaquil.
+175,La Policía desarticuló en Milagro una banda dedicada a robar en unidades educativas,/noticias/judicial/12/la-policia-desarticulo-en-milagro-una-banda-dedicada-a-robar-en-unidades-educativas,04 de abril de 2017 16:08,"Agentes de la Policía Judicial desarticularon en el cantón Milagro, provincia del Guayas, una banda dedicada al robo de equipos tecnológicos, artefactos y enseres de entidades educativas."
+176,Presunto ladrón de láminas de oro en Manhattan fue aprehendido en Guayaquil,/noticias/judicial/12/presunto-ladron-de-laminas-de-oro-en-manhattan-fue-aprehendido-en-guayaquil,19 de enero de 2017 16:12,"La Policía Nacional, a través de su cuenta oficial de Twitter @PoliciaEcuador, publicó este jueves que gracias al operativo 'Sidpro-Bac' realizado en Guayaquil, se habría aprehendido al presunto autor del robo de láminas de oro en Manhattan (Estados Unidos), el pasado mes de septiembre."
+177,Las joyas robadas a Kim Kardashian en París fueron fundidas y retalladas,/noticias/espectaculos/10/las-joyas-robadas-a-kardashian-en-paris-fueron-fundidas-y-retalladas,18 de enero de 2017 09:01,"Las joyas robadas a la estadounidense Kim Kardashian en París, en octubre pasado, no podrán ser encontradas, puesto que el oro fue fundido y las piedras preciosas retalladas, según la confesión de algunos detenidos, revelada hoy.Fuentes próximas a la investigación citadas por la cadena de televisión ""BFMTV"" concluyeron que el botín, valorado en 9 millones de euros -incluía el anillo de pedida de Kardashian de 3,5 millones- fue vendido en el mercado de joyas de Amberes."
+178,Roban $ 6 millones en joyas cerca de Times Square en Año Nuevo,/noticias/mundo/8/roban-usd-6-millones-en-joyas-cerca-de-times-square-en-ano-nuevo,03 de enero de 2017 17:18," Mientras más de un millón de personas esperaba la llegada de 2017 bajo un intenso frío en Times Square, 3 ladrones se robaron 6 millones de dólares en joyas a pocas cuadras de allí, informó la policía de Nueva York."
+179,Ecuatoriano robaba objetos de camiones,/noticias/judicial/12/ecuatoriano-robaba-objetos-de-camiones,27 de diciembre de 2016 00:00,Nueva York.-
+180,Policía de Nueva York identifica a hombre que robó balde lleno de oro,/noticias/judicial/12/policia-de-nueva-york-identifica-a-hombre-que-robo-balde-lleno-de-oro,22 de diciembre de 2016 16:50,"Un hombre camina por una calle de Nueva York, se percata de que un vehículo blindado tiene la puerta abierta, advierte que no hay nadie vigilando, coge el botín y se va caminando sin que nadie lo detenga. ¿Qué se llevó? Láminas de oro valoradas en $ 1,6 millones."
+181,Roban 5 millones de euros a 2 mujeres cataríes en autopista de París,/noticias/mundo/8/roban-5-millones-de-euros-a-2-mujeres-cataries-en-autopista-de-paris,22 de noviembre de 2016 11:08,"Dos mujeres cataríes fueron asaltadas en una autopista de París por dos encapuchados que se llevaron un botín de al menos 5 millones de euros, un nuevo golpe para la imagen de la capital francesa tras el robo que sufrió la estrella de la telerrealidad Kim Kardashian."
+182,Una madre presenció cómo los 'sacapintas' asesinaron a su hijo,/noticias/judicial/12/una-madre-presencio-como-los-sacapintas-asesinaron-a-su-hijo,29 de octubre de 2016 00:00,"¡Entra ‘vieja’ que te van a matar!, le gritó Francisco Xavier García Moreno a su madre que observaba cómo dos hombres lo asaltaban, afuera de su vivienda, situada en la ciudadela Sauces 8, en el norte de Guayaquil. La mujer suplicaba a los delincuentes que no lastimaran a su hijo, pero el clamor no los sensibilizó y a los pocos segundos uno de ellos disparó."
+189,Asaltantes que robaron blindado dejaron un carro abandonado,/noticias/judicial/12/asaltantes-que-robaron-blindado-dejaron-un-carro-abandonado,28 de septiembre de 2016 14:44,'Carlos' escuchó los disparos y se escondió debajo de una camioneta. A pocos metros de distancia unos delincuentes detonaban sus armas hacia el cielo para robar el dinero que iba a ser ingresado a un blindado de la compañía de valores Tevcol.
+190,Aún no hay detenidos por robo de $ 10.500 en Solca,/noticias/judicial/12/aun-no-hay-detenidos-por-robo-de-usd-10-500-en-solca,06 de julio de 2016 00:00,"Los agentes de la Subdirección Nacional de Investigaciones contra el Derecho a la Propiedad investigan quiénes son los autores del robo de $ 10.500 en el hospital de Solca, en Guayaquil. El dinero lo tenía el asistente de tesorería del establecimiento, Roger M.M., encargado de trasladar desde el área de ventanilla hasta una bóveda de seguridad que tiene el hospital en otro edificio.Los delincuentes huyeron por la avenida Atahualpa Chávez, aparentemente en complicidad con otros dos individuos que los esperaban en 2 motocicletas."
+191,El supuesto autor de crimen por asalto fue aprehendido,/noticias/judicial/12/el-supuesto-autor-de-crimen-por-asalto-fue-aprehendido,04 de junio de 2016 00:00,"La Policía detuvo al individuo que, supuestamente, disparó a una mujer que se opuso al robo de $ 2.000 que recién había sacado de una agencia bancaria de un centro comercial de Guayaquil. Así lo confirmó Tanya Varela (foto), comandante de la Zona 8 de Policía, que comprende los cantones Guayaquil, Durán y Samborondón."
+192,Ocho detenidos por presunto robo en estaciones de la Metrovía,/noticias/judicial/12/ocho-detenidos-por-presunto-robo-en-estaciones-de-la-metrovia,26 de mayo de 2016 12:32,Una investigación de 3 meses permitió a la Policía Nacional desarticular una banda presuntamente dedicada al robo en las diferentes estaciones de la Metrovía en Guayaquil.
+193,‘Me robaron mi perfil en Facebook’,/noticias/de7en7/1/me-robaron-mi-perfil-en-facebook,14 de mayo de 2016 00:00,"Durante más de una semana, su perfil en la red social Facebook dejó de pertenecerle."
+194,Roban a todo un pueblo en Argentina en 10 minutos y se fugan,/noticias/judicial/12/roban-a-todo-un-pueblo-en-argentina-en-10-minutos-y-se-fugan,04 de marzo de 2016 14:55,"Un grupo comando robó el viernes la comisaría, la alcaldía, el registro civil, el correo y el banco de un pequeño pueblo en Argentina, para luego darse a la fuga tras intercambiar disparos con la policía que dejó un delincuente muerto, informaron la policía y testigos."
+195,Video identifica a 3 personas que participaron en un robo,/noticias/judicial/12/video-identifica-a-3-personas-que-participaron-en-un-robo,27 de febrero de 2016 00:00,"Las cámaras de seguridad instaladas en los pasillos de una empresa ubicada en la avenida Francisco de Orellana, en el norte de Guayaquil, permitieron identificar que una persona que laboraba como mensajero, Jorge Enrique P.R., participó en el robo de laptops, celulares y otros equipos que estaban en una bodega de la empresa OSC Telecom S.A."
+196,"Organización robaba celulares en Colombia y los vendía en Ecuador, Perú y Argentina",/noticias/judicial/12/organizacion-robaba-celulares-en-colombia-y-los-vendia-en-ecuador-peru-y-argentina,23 de febrero de 2016 18:18,"El cabecilla de una organización internacional que comercializaba en países de Sudamérica celulares robados en Colombia fue capturado en Bogotá en el marco de la estrategia del gobierno contra el hurto de teléfonos móviles, informaron este lunes autoridades colombianas."
+197,ECU-911 y la Policía Nacional evitaron robo de computadoras en escuela de Ambato,/noticias/regional-centro/2/ecu-911-y-la-policia-nacional-evitaron-robo-de-computadoras-en-escuela-de-ambato,29 de diciembre de 2015 11:23,"A las 02:22 de hoy personal del ECU-911 de Ambato recibió una llamada alertando un posible robo en la Unidad Educativa Francisco Flor Gustavo Egüez, ubicada cerca del redondel de Huachi Chico, al sur de la ciudad."
+198,Delincuentes aprovecharon la luz roja para robar 480 pavos,/noticias/judicial/12/delincuentes-aprovecharon-la-luz-roja-para-robar-480-pavos,18 de noviembre de 2015 00:00,"Un camión en el que eran transportados 480 pavos fue robado la tarde del lunes en la vía Perimetral, a la altura de la Isla Trinitaria, en el sur de Guayaquil."
+205,3 guardias fueron detenidos después de robar en hospital,/noticias/judicial/12/3-guardias-fueron-detenidos-despues-de-robar-en-hospital,17 de noviembre de 2015 00:00,"La madrugada de ayer fueron detenidos 3 guardias que supuestamente facilitaron un robo en el área donde se construye un hospital, en el Guasmo Sur, en Guayaquil."
+206,La Fiscalía solicita videos tras robo en el Vicente Rocafuerte,/noticias/judicial/12/la-fiscalia-solicita-videos-tras-robo-en-el-vicente-rocafuerte,11 de noviembre de 2015 00:00,"Un empleado del emblemático y recién remodelado colegio Vicente Rocafuerte denunció, en la Fiscalía de Guayas, que se robaron 12 computadoras de un laboratorio."
+207,"Sospechoso de robar $ 18 mil, detenido",/noticias/judicial/12/sospechoso-de-robar-18-mil-detenido,06 de noviembre de 2015 00:00,"Orlando Javier C., de 29 años, fue capturado como sospechoso de robar $ 18 mil de una hostería en la que trabajaba en la parroquia Baños, en Cuenca."
+208,Roban dos pinturas de Goya ,/noticias/cultura/10/roban-dos-pinturas-de-goya,26 de septiembre de 2015 15:23,"Dos cuadros atribuidas al pintor español Francisco de Goya fueron robadas en una casa cerca de Madrid, informó el diario El País."
+209,Los delincuentes robaban a jóvenes hasta uniformes y útiles escolares,/noticias/judicial/12/los-delincuentes-robaban-a-jovenes-hasta-uniformes-y-utiles-escolares,11 de septiembre de 2015 00:00,"Un grupo de delincuentes, compuesto por 3 hombres y una mujer, fue capturado por la Policía que los sorprendió cuando trataban de robar a varios transeúntes en el sector de El Calzado, en el sur de Quito."
+210,Una joven de 25 años fue baleada por evitar robo,/noticias/judicial/12/una-joven-de-25-anos-fue-baleada-por-evitar-robo,21 de julio de 2015 00:00,"María José C.O., de 25 años, fue asesinada por supuestamente no dejarse robar su celular. El hecho ocurrió antes de las 07:00 de ayer en las calles Venezuela entre la 29 y la 30, en el suburbio de Guayaquil."
+211," EE. UU. dice que hackers robaron información de 21,5 millones de personas",/noticias/mundo/8/ee-uu-dice-que-hackers-robaron-informacion-de-215-millones-de-personas,09 de julio de 2015 14:45,"La información robada por hackers en bases de datos informáticos del gobierno de Estados Unidos afectó a unos 21,5 millones de personas, señalaron este jueves funcionarios en el marco de una investigación sobre un ataque ampliamente adjudicado a China."
+212,Sospechoso de robo en local de celulares quiso huir subiendo en diferentes buses,/noticias/judicial/12/sospechoso-de-robo-en-local-de-celulares-quiso-huir-subiendo-en-diferentes-buses,24 de junio de 2015 00:00,"Un hombre fue detenido luego del supuesto cometimiento de un asalto en un local de venta de celulares situado en la sexta etapa de la ciudadela La Alborada, en el norte de Guayaquil."
+213,Presunto responsable de asesinato de policía fue detenido,/noticias/judicial/12/un-policia-fue-asesinado-en-guayaquil-para-robarle-la-moto,21 de junio de 2015 14:37,".Efectivos policiales detuvieron este domingo 21 de junio, en Guayaquil, a Braulio Z. alias Chuki, presunto responsable del asesinato de un policía en servicio activo."
+214,"Roban ejemplar inédito de ""Cincuenta sombras de Grey"" ",/noticias/espectaculos/10/roban-ejemplar-inedito-de-cincuenta-sombras-de-grey,10 de junio de 2015 10:16,"Un ejemplar de la próxima entrega de ""Cincuenta sombras de Grey"" fue robado a una semana de su publicación, anunciaron esta mañana Penguin Random House."
+221,Colombia ofrece recompensa por valioso óleo de Simón Bolívar que fue robado ,/noticias/cultura/10/colombia-ofrece-recompensa-por-valioso-oleo-de-simon-bolivar-que-fue-robado,01 de junio de 2015 18:04,"Un cuadro de Simón Bolívar pintado por el artista Epifanio Garay, en el siglo XIX, fue sustraído de la sede de la Gobernación de Bolívar en la ciudad de Cartagena, en Colombia Las autoridades han ofrecido una recompensa a quien proporcione información para recuperarlo."
+222,Sospechosos de robo a complejo del D. Quito fueron capturados ,/noticias/judicial/12/sospechosos-de-robo-a-complejo-del-d-quito-fueron-capturados,28 de abril de 2015 08:11,"La Policía capturó a los presuntos responsables del asalto a las instalaciones del complejo Ney Mancheno del Deportivo Quito, según confirmó esta mañana en su cuenta en Twitter el ministro del Interior, José Serrano."
+223,"Vanilla Ice hará servicio comunitario, tras acuerdo legal ",/noticias/espectaculos/10/vanilla-ice,02 de abril de 2015 17:29,Vanilla Ice accedió a un acuerdo legal para realizar un servicio comunitario tras ser arrestado por entrar sin autorización y robar una casa abandonada en Florida.
+224,"Ladrón devuelve vestido de Lupita Nyongo, al asegurar que las perlas son falsas",/noticias/espectaculos/10/ladron-devuelve-vestido-de-lupita-nyong-o-al-asegurar-que-las-perlas-son-falsas,02 de marzo de 2015 10:32,"El vestido que Lupita Nyong´o usó en la entrega del Oscar, que le había sido robado, fue sacado del hotel London West Hollywood a través del balcón."
+225,"Scolari, indocumentado y sin tarjetas de crédito por robo en Brasil",/noticias/futbol-internacional/7/scolari-indocumentado-y-sin-tarjetas-de-credito-por-robo-en-brasil,22 de enero de 2015 14:30,"El exseleccionador de Brasil Luiz Felipe Scolari quedó indocumentado, sin cheques y tarjetas de crédito por causa de los ladrones, que asaltaron su vehículo mientras se encontraba en un comercio de Nova Hamburgo (Rio Grande do Sul, sur)."
+226,Los robos de celulares se redujeron a mil por día (Infografía),/noticias/economia/4/los-robos-de-celulares-se-redujeron-a-mil-por-dia-infografia,17 de enero de 2015 00:00,
+227,Ladrones utilizaron un iPod para robar tarjetas de crédito en Reino Unido,/noticias/tecnologia/6/ladrones-utilizaron-un-ipod-para-robar-tarjetas-de-credito-en-reino-unido,15 de enero de 2015 00:00,"Un grupo de ladrones de Gatley (Stockport, Reino Unido) utilizó un iPod nano de quinta generación para cometer un robo. "
+228,Algunos de los trofeos robados a Red Bull aparecen en un lago,/noticias/f1/7/algunos-de-los-trofeos-robados-a-red-bull-aparecen-en-un-lago,16 de diciembre de 2014 13:45,"Veinte de los 60 trofeos robados en un asalto a la sede de Red Bull en la ciudad británica de Milton Keynes fueron encontrados en un lago, explicó la policia inglesa este martes."
+229,Roban puerta del campo de concentración nazi de Dachau,/noticias/mundo/8/roban-puerta-del-campo-de-concentracion-nazi-de-dachau,02 de noviembre de 2014 18:33,"Una puerta de hierro forjado con la inscripción ""Arbeit macht frei"" (El trabajo hace libre) fue robada por desconocidos del campo de concentración nazi de Dachau, cerca de Múnich (sur de Alemania), anunció el domingo la policía."
+230,3 presos por robo y extorsión ,/noticias/judicial/12/3-presos-por-robo-y-extorsion,17 de septiembre de 2014 00:00,"Héctor A., Washington M. y Joffre B. fueron detenidos cuando transitaban en un carro presuntamente robado y por el que habrían pedido al dueño $ 1.700 para devolvérselo."
+237,Diariamente en Lima se reporta el robo de 14.000 celulares y 19 autos,/noticias/mundo/8/diariamente-en-lima-se-reporta-el-robo-de-14-000-celulares-y-19-autos,27 de agosto de 2014 00:00,"El Comité Estadístico Interinstitucional de la Criminalidad (CEIC), creado a finales del año pasado por el Ministerio de Justicia del Perú, no ha arrojado buenas noticias con los resultados de sus primeros estudios."
+238,Robo y asesinato bajan en Guayaquil,/noticias/judicial/12/robo-y-asesinato-bajan-en-guayaquil,19 de agosto de 2014 00:00,"De enero a julio de 2014 se reportaron 136 casos de robos a domicilio en el Distrito Centro de Guayaquil, donde están las ciudadelas Sauces, Atarazana, Guayacanes, Kennedy, Urdesa, La Alborada y además la parroquia Tenguel."
+239,Cinematográfico y millonario robo en el aeropuerto de Santiago de Chile,/noticias/mundo/8/cinematografico-y-millonario-robo-en-el-aeropuerto-de-santiago-de-chile,13 de agosto de 2014 00:00,"Como en la película Goodfellas (Buenos muchachos), de Martin Scorsese, o como el robo ocurrido en febrero de 2013 en el aeropuerto de Bruselas, cuando un grupo armado se llevó $ 50 millones en diamantes y otras joyas."
+240,El robo de ganado bajó en Guayas,/noticias/judicial/12/el-robo-de-ganado-bajo-en-guayas,06 de agosto de 2014 00:00,"El robo de ganado está disminuyendo en la provincia de Guayas. Si bien en 2013 se registraron 71 denuncias en los primeros 6 meses, este año, en el mismo período, se reportaron 36 casos, según la Policía."
+241,El robo de tapas de desagües causa un perjuicio de $ 25 mil,/noticias/informacion-general/1/el-robo-de-tapas-de-desaguees-causa-un-perjuicio-de-25-mil,26 de julio de 2014 00:00,Tulcán
+242,Hay 5 denuncias de robo en cerro Santa Ana al mes,/noticias/guayaquil/2/hay-5-denuncias-de-robo-en-cerro-santa-ana-al-mes,17 de julio de 2014 00:00,"Los robos a los visitantes de la zona regenerada del cerro Santa Ana es una situación cotidiana, según moradores de la zona céntrica.   "
+243,Adolescente implicado en robo,/noticias/judicial/12/adolescente-implicado-en-robo,07 de julio de 2014 00:00,"ntony V.M., de 17 años, fue capturado la noche del sábado luego de que supuestamente asaltó un restaurante en la Manzana 8 de la Cdla. Jambelí, en el sur de Guayaquil. Según el mayor Edwin Ponce Barahona, del Distrito Esteros, mencionó que el personal del negocio activó el botón de pánico."
+244,Cuatro menores expulsados del entrenamiento de Colombia por intento de robo,/noticias/mundial-2014/7/cuatro-menores-expulsados-del-entrenamiento-de-colombia-por-intento-de-robo,09 de junio de 2014 18:37,"Cuatro jóvenes fueron expulsados del Centro de Entrenamiento del Sao Paulo, donde practica la selección colombiana, al ser sorprendidos mientras intentaban robar a aficionados ubicados en las gradas del campo de fútbol."
+245,Sospechoso de robo a turista fue aprehendido en terminal,/noticias/judicial/12/sospechoso-de-robo-a-turista-fue-aprehendido-en-terminal,03 de junio de 2014 00:00,"Jackson L., de 36 años, fue detenido en el patio de comidas de la Terminal Terrestre de Guayaquil por ser sospechoso del robo de una maleta propiedad de una turista de nacionalidad austriaca. El incidente ocurrió cuando la extranjera compraba boletos para dirigirse a otro punto del país."
+246,"Justin Bieber, acusado de intentar robarle un celular a una mujer ",/noticias/espectaculos/10/justin-bieber-acusado-de-intentar-robarle-un-celular-a-una-mujer,14 de mayo de 2014 07:24,La policía de Los Ángeles (EE.UU.) investiga la acusación realizada contra Justin Bieber por intento de robo de un teléfono móvil con el que supuestamente una mujer le habría hecho varias fotografías momentos antes. 
+253,240 mil móviles reportados por robo fueron bloqueados (INFOGRAFÍA),/noticias/economia/4/240-mil-moviles-reportados-por-robo-fueron-bloqueados-infografia,08 de mayo de 2014 00:00,
+254,El museo Remigio Crespo Toral sufrió el robo de 12 piezas,/noticias/regional-sur/2/el-museo-remigio-crespo-toral-sufrio-el-robo-de-12-piezas-2,16 de abril de 2014 00:00,"El museo Remigio Crespo Toral, nombre que adquirió en honor de uno de los poetas más reconocidos a nivel nacional, sufrió la pérdida de 12 de sus piezas más significativas. "
+255,Robo en el Cabildo latacungueño,/noticias/regional-centro/2/robo-en-el-cabildo-latacungueno,15 de abril de 2014 00:00,Ocurrió el jueves 10 de abril y todavía los ciudadanos no salen de su sorpresa. Un total de $ 24.971 procedentes del cobro de impuestos recogidos ese día en la Tesorería del Gobierno Municipal de Latacunga  fueron robados esa misma noche.
+256,La Policía detuvo a nueve personas acusadas de robo ,/noticias/regional-sur/2/la-policia-detuvo-a-nueve-personas-acusadas-de-robo,10 de abril de 2014 00:00,"Durante la última semana, la Policía Judicial del Azuay efectuó varios operativos de control en diferentes sectores. En ellos logró la captura de nueve ciudadanos presuntamente vinculados con hechos delictivos, mientras que dos menores de edad fueron aislados."
+257,"El robo a personas, delito más cometido en Iñaquito",/noticias/judicial/12/el-robo-a-personas-delito-mas-cometido-en-inaquito,01 de abril de 2014 00:00,"Daniela sigue asustada por la balacera del pasado jueves, que causó la muerte de un policía, un supuesto delincuente y un mensajero del restaurante La Ronda, que  está a media cuadra de su negocio, dedicado a la venta de mercadería variada, alimentos y golosinas, ubicado en el sector de La Pradera, perteneciente al circuito Iñaquito."
+258,Las víctimas de la usura recuperarán sus bienes,/noticias/judicial/12/las-victimas-de-la-usura-recuperaran-sus-bienes,20 de diciembre de 2013 00:00,
+259,43 detenidos en operativo “Noche gris” contra la usura,/noticias/judicial/12/42-detenidos-en-operativo-noche-gris-contra-la-usura,19 de diciembre de 2013 10:21,"El Ministerio del Interior informó que en la operación denominada ""Noche gris"" fueron detenidos 43 presuntos miembros de organizaciones dedicadas al chulco (usura), así como robo a domicilios y personas. "
+260,El hurto durante tragedia se castiga como robo,/noticias/judicial/12/el-hurto-durante-tragedia-se-castiga-como-robo,12 de diciembre de 2013 00:00,"El incendio de la tarde del domingo en el edificio Panorama, en el centro de Guayaquil, a más de pérdidas materiales, personas con quemaduras y síntomas de asfixia, dejó también un sentimiento de indignación por parte de algunos afectados que no fueron alcanzados por las llamas, pero sí por la delincuencia."
+261,Taxistas fueron heridos en supuestos intentos de robo,/noticias/judicial/12/taxistas-fueron-heridos-en-supuestos-intentos-de-robo,29 de octubre de 2013 00:00,"Óscar S., un taxista que circulaba por las calles José Mascote y Calicuchima, sur de Guayaquil, pudo huir de delincuentes que lo hirieron en el rostro con un arma cortante. Un compañero de su gremio indicó que aparentemente lo agredieron con un pico de botella, pero que no sabe cómo escapó y llegó a una Unidad de Policía, a 2 cuadras, desde donde se llamó a una ambulancia."
+262,Trabas que podrían evitar el robo de un vehículo,/noticias/judicial/12/trabas-que-podrian-evitar-el-robo-de-un-vehiculo,21 de octubre de 2013 00:00,"El destino de los vehículos robados es diverso, podrían ser desmantelados, trasladados lejos de la ciudad en la que circulan, escondidos hasta negociar con los interesados en recuperarlos o, lo que es más común,   clonados."
+269,Prisión para gendarme por robo,/noticias/judicial/12/prision-para-gendarme-por-robo,12 de octubre de 2013 00:00,"El general Guillermo Balarezo, jefe de policía del Distrito Metropolitano de Guayaquil (DMG), aseguró “que será implacable” contra todo acto de corrupción  que afecte la imagen de la Policía Nacional."
+270,América Latina se une contra el robo de celulares,/noticias/judicial/12/america-latina-se-une-contra-el-robo-de-celulares,03 de septiembre de 2013 00:00,
+271,Celulares inteligentes se podrán destruir vía web en caso de robo,/noticias/judicial/12/celulares-inteligentes-se-podran-destruir-via-web-en-caso-de-robo,29 de agosto de 2013 00:00,"Dos meses atrás el operativo internacional “Smartphone” atacó el mercado negro del negociado de los teléfonos inteligentes robados. La cercanía entre Ecuador, Colombia y Perú permitía que celulares que eran sustraídos en uno de los países mencionados fuese vendido en cualquiera de esas naciones."
+272,Acusan a policías paraguayos de apoderarse de $ 200.000,/noticias/judicial/12/acusan-a-policias-paraguayos-de-apoderarse-de-200-000,29 de agosto de 2013 00:00,La Fiscalía paraguaya acusó ayer a tres comisarios y cinco agentes policiales por apoderarse presuntamente de un botín de alrededor de 200.000 dólares robado a una empresa por uno de sus empleados en febrero pasado.
+273,Tres detenidos por el asalto a una camaronera,/noticias/judicial/12/tres-detenidos-por-el-asalto-a-una-camaronera,24 de agosto de 2013 00:00,"Personal de la Estación Flotante San Pablo, de la Armada Nacional, detuvo a tres presuntos implicados en el asalto a una camaronera en el estero Cerezales, en Puná Viejo."
+274,Aseguradora ofrece recompensa para recuperar joyas robadas en Francia,/noticias/mundo/8/aseguradora-ofrece-recompensa-para-recuperar-joyas-robadas-en-francia,06 de agosto de 2013 08:27,"La aseguradora Lloyds ofreció un millón de euros (1,36 millones de dólares) de recompensa a quien permita recuperar las joyas robadas en Cannes (sur de Francia) durante un asalto perpetrado el 28 de junio pasado y cuyo valor se estimó en más de 136 millones de dólares."
+275,Tres detenidos por robos a personas y a un local,/noticias/informacion-general/1/tres-detenidos-por-robos-a-personas-y-a-un-local,03 de agosto de 2013 00:00,"Dos presuntos miembros de una banda dedicada al robo de personas fueron detenidos por la Policía en Urdesa, norte de Guayaquil. Viajaban en un Chevrolet Spark blanco, que fue identificado por varias de las víctimas."
+276,El robo a domicilios sube en estadísticas,/noticias/regional-sur/2/el-robo-a-domicilios-sube-en-estadisticas,31 de julio de 2013 00:00,"Según las autoridades azuayas existe una disminución en el robo a locales comerciales, vehículos y personas en Cuenca en los últimos meses, pero se  registra un aumento en el robo a domicilios y motos. Las muertes violentas mantienen las mismas estadísticas, con relación al año anterior."
+277,Tesorera fue plagiada para robar en cooperativa,/noticias/informacion-general/1/tesorera-fue-plagiada-para-robar-en-cooperativa,27 de julio de 2013 00:00,"$ 300.000 fueron robados de la cooperativa Comercio Ltda., del cantón Portoviejo, confirmó el gerente, Fabián Santana. La tesorera de la entidad fue plagiada por 6 hombres para usarla como “carnada”."
+278,Vecinos de San Roque quieren erradicar las drogas y el robo,/noticias/quito/2/vecinos-de-san-roque-quieren-erradicar-las-drogas-y-el-robo,05 de julio de 2013 00:00,"San Roque es uno de los barrios tradicionales de la capital y es conocido como  un centro de abastos  donde confluyen comerciantes de todas las provincias. Sus calles están llenas de vendedores, frutas, legumbres y mariscos, un paisaje ya cotidiano para sus moradores.  "
+285,Policía capturado mientras robaba,/noticias/judicial/12/policia-capturado-mientras-robaba,22 de mayo de 2013 00:00,"La semana  libre del policía en servicio activo D. V. Riofrío, de 23 años, pasó de la diversión al encierro.  Según el Comando de Policía de El Oro, el uniformado fue sorprendido junto a un hombre identificado como M. J. Piedra, de 26 años, asaltando a una pareja."
+286,"Tres personas, detenidas por robo en Simón Bolívar",/noticias/regional-centro/2/tres-personas-detenidas-por-robo-en-simon-bolivar,10 de mayo de 2013 00:00,"Hasta las dependencias de la Tenencia Política de la parroquia Simón Bolívar, del cantón Pastaza, acudió una ciudadana en días pasados, para denunciar que su tienda había sido asaltada."
+287,"Robo de elementos de la regeneración urbana, imparable en las calles",/noticias/guayaquil/2/robo-de-elementos-de-la-regeneracion-urbana-imparable-en-las-calles,17 de abril de 2013 00:00,"Manuel Miño, comerciante del centro de la urbe, ya no recuerda cuánto tiempo ha pasado desde que se llevaron un tacho de basura de la avenida Machala (a la altura de Luque),  colocado por el Municipio de Guayaquil, a través de la Fundación Guayaquil Siglo XXI,  cuando se inició la regeneración urbana allí hace seis años. "
+288,Investigan el robo de fármacos,/noticias/judicial/12/investigan-el-robo-de-farmacos,17 de abril de 2013 00:00,El Ministerio de Salud Pública (MSP) informó que 21 personas (11 en Quito y 10 en Guayaquil) están siendo investigadas por la Fiscalía por el robo de medicamentos procedentes de los hospitales Eugenio Espejo y Abel Gilbert Pontón.
+289,"Según Observatorio, el robo a personas creció en Guayaquil",/noticias/judicial/12/segun-observatorio-el-robo-a-personas-crecio-en-guayaquil,15 de abril de 2013 00:00,"En los tres primeros meses de 2013, en relación con el mismo periodo de 2012, los delitos en Guayaquil tuvieron un aumento comparativo de casi el 50 por ciento, según un informe de gestión presentado por el Observatorio de Seguridad Ciudadana de Guayaquil (OSCG)."
+290,Inició juzgamiento por robo en Quicentro Sur de hace un año,/noticias/judicial/12/inicio-juzgamiento-por-robo-en-quicentro-sur-de-hace-un-ano,10 de abril de 2013 00:00,"Con la declaración de Adriana Cecilia León Lizano, testigo principal en el robo  ocurrido en junio de 2012 en el interior del Centro Comercial Quicentro Sur, inició el juzgamiento a los ocho procesados por este caso."
+291,Cuba acusa a EE.UU. de robo de marca de habanos,/noticias/mundo/8/cuba-acusa-a-ee-uu-de-robo-de-marca-de-habanos,02 de abril de 2013 00:00,"Cuba acusó ayer a Estados Unidos del “robo descarado” de su marca emblemática de habanos Cohiba, tras un fallo de una comisión federal norteamericana favorable a la compañía General Cigar, en una disputa comercial de casi 16 años con la empresa cubana Cubatabaco."
+292,Detienen a banda delictiva cuando intentaba robar en una vivienda,/noticias/judicial/12/detienen-a-banda-delictiva-cuando-intentaba-robar-en-una-vivienda,30 de marzo de 2013 00:00,"Ocho sujetos ingresaron armados a la vivienda del empresario manabita Isaac Vélez, tío de la presentadora de televisión Éricka Vélez, con el fin de robar sus pertenencias, el jueves."
+293,Gendarmes extorsionaban a personas víctimas de robo,/noticias/judicial/12/gendarmes-extorsionaban-a-personas-victimas-de-robo,29 de marzo de 2013 00:00,"Un ciudadano que sufrió el robo de su vehículo, un Hyundai Tucson, el pasado 15 de marzo en las calles Isla Floreana y Amazonas, informó haber sido chantajeado por dos miembros de la Policía Nacional para que, a cambio de dinero, le entregasen su auto."
+294,Capturan a 8 personas acusadas de intento de robo de 80 cerdos,/noticias/judicial/12/capturan-a-8-personas-acusadas-de-intento-de-robo-de-80-cerdos,29 de marzo de 2013 00:00,"Ocho sujetos involucrados en un delito de asalto y robo fueron detenidos por la Policía acantonada en Milagro, Guayas, luego de que fueran sorprendidos  perpetrando un atraco en la hacienda Valdez, en el recinto Paraíso de Chobo, de ese cantón."
+301,En Milagro detienen a sujetos acusados de robar a vigilantes,/noticias/judicial/12/en-milagro-detienen-a-sujetos-acusados-de-robar-a-vigilantes,09 de marzo de 2013 00:00,"La Policía acantonada en Milagro (Guayas) reportó ayer la detención de Javier Alfredo Ch. P., alias “Culebra”, y John Lister M. S., alias “Pelado John”, quienes fueron involucrados en los delitos de robo e intento de asesinato a policías y vigilantes."
+302,Detienen al autor del robo de un Dalí en Nueva York ,/noticias/espectaculos/10/detienen-al-autor-del-robo-de-un-dali-en-nueva-york,21 de febrero de 2013 00:00,"Las autoridades de Nueva York detuvieron a un hombre acusado de robar, el año pasado, el dibujo ‘Cartel de Don Juan Tenorio’ de Salvador Dalí de una galería de arte de la Gran Manzana, según informó la fiscalía de Manhattan."
+303,Hombre es detenido tras robar puerta metálica de un parque,/noticias/judicial/12/hombre-es-detenido-tras-robar-puerta-metalica-de-un-parque,09 de febrero de 2013 00:00,En los últimos 12 años Juan Q. había sido detenido en 10 ocasiones por delitos contra la propiedad (robo) y tenencia ilegal de armas. 
+304,Desarticulan presunta banda dedicada al robo de ganado,/noticias/judicial/12/desarticulan-presunta-banda-dedicada-al-robo-de-ganado,01 de febrero de 2013 00:00,"Mediante un operativo policial realizado en la vía Balzar-Manabí se recuperó un camión que llevaba varias reces que habrían sido robadas de la hacienda “Lisbeth Alexandra”, ubicada en el km 17 de la carretera."
+305,Cuatro sujetos son detenidos en Guayaquil luego de haber robado,/noticias/judicial/12/cuatro-sujetos-son-detenidos-en-guayaquil-luego-de-haber-robado,31 de enero de 2013 00:00,"Los hermanos Héctor y Érick Ch. M., de 30 y 20 años, respectivamente, fueron capturados, la noche del pasado martes, en la Isla Trinitaria, en Guayaquil, luego de robarle las pertenencias a un ciudadano."
+306,Hombre es asesinado por oponerse a asalto y robo en bus,/noticias/judicial/12/hombre-es-asesinado-por-oponerse-a-asalto-y-robo-en-bus,17 de enero de 2013 00:00,"Carlos Mendoza tenía 300 dólares en uno de los bolsillos de su pantaloneta. Al ser quincena, bien podría haber sido el dinero recibido por su trabajo, pero el hombre no pudo disfrutarlo, ya que fue asesinado por oponerse a un robo. "
+307,Robo en Municipio de Pasaje,/noticias/regional-sur/2/robo-en-municipio-de-pasaje,08 de enero de 2013 00:00,"La madrugada del domingo, delincuentes se sustrajeron la caja fuerte de la oficina de tesorería de la Municipalidad de Pasaje, llevándose documentos valiosos para la institución."
+308,Sede de las juntas parroquiales de Esmeraldas sufre robo de su oficina por segunda vez,/noticias/informacion-general/1/sede-de-las-juntas-parroquiales-de-esmeraldas-sufre-robo-de-su-oficina-por-segunda-vez,04 de enero de 2013 00:00,"El robo que sufrió la sede de la Asociación de Gobiernos Autónomos Parroquiales Rurales de Esmeraldas (Asogopare), ubicada en la capital provincial, dejó pérdidas por alrededor de siete mil dólares."
+309,Intervención de ciudadanos logra frustrar robo a un local,/noticias/judicial/12/intervencion-de-ciudadanos-logra-frustrar-robo-a-un-local,28 de diciembre de 2012 00:00,"Varios moradores de la ciudadela Quisquís, norte de Guayaquil, evitaron que el local comercial Compuserv sea robado."
+310,Policía detiene a sospechosos y frustra robo,/noticias/judicial/12/policia-detiene-a-sospechosos-y-frustra-robo,02 de diciembre de 2012 00:00,"La Policía frustró el asalto y robo que una banda delincuencial, integrada por diez sujetos, intentó perpetrar a un ciudadano que portaba 50.000 dólares en efectivo y más de 2 kilos de joyas de oro."
+317,Baja el número de teléfonos celulares reportados como perdidos o robados en el país,/noticias/economia/4/baja-el-numero-de-telefonos-celulares-reportados-como-perdidos-o-robados-en-el-pais,28 de noviembre de 2012 00:00,"La Superintendencia de Telecomunicaciones (Supertel) informó que en los últimos meses se ha reducido el reporte de robos o pérdidas de celulares, entre otros factores, por efecto del proceso de empadronamiento en la telefonía móvil que culminó en julio de este año y que logró bajar el comercio ilegal de los equipos."
+318,Tribunal penal impone sentencia en apenas 17 días de proceso,/noticias/judicial/12/tribunal-penal-impone-sentencia-en-apenas-17-dias-de-proceso,22 de noviembre de 2012 00:00,"En apenas 17 días que duró el proceso, tres personas acusadas de tentativa de robo en Quito recibieron sentencia condenatoria del Noveno Tribunal de Garantías Penales, que funciona en la Unidad de Flagrancia, inaugurada el   pasado 30 de octubre."
+319,21 sudamericanos detenidos por robar casas y traficar cocaína,/noticias/mundo/8/21-sudamericanos-detenidos-por-robar-casas-y-traficar-cocaina,12 de noviembre de 2012 07:42,"La Guardia Civil Española detuvo a 21 personas sudamericanas acusadas de llevar a cabo robos con fuerza e intimidación y tráfico de drogas, cocaína sobre todo, en distintas provincias del país. Los detenidos, de entre 21 y 52 años, tienen diferentes nacionalidades: catorce de Paraguay, cinco de Colombia, uno de Bolivia y uno de Perú. La operación, que se desarrolló en Madrid y en las provincias de Córdoba (sur), Valencia y Albacete (este), ha permitido esclarecer cuatro robos con violencia e intimidación y cuarenta robos con fuerza, en los que fueron sustraídos efectos por importe de 130.000 euros, informó este lunes el subdelegado del Gobierno en Albacete. La Guardia Civil ha realizado trece registros, ha recuperado 524 piezas de joyería y ha intervenido nueve vehículos, dos armas de fuego, 66 gramos de cocaína, un kilo de marihuana, 37 teléfonos móviles, 13 televisores LCD y 10 ordenadores portátiles."
+320,Los acusados de robar Banco Sudamericano son presentados,/noticias/judicial/12/los-acusados-de-robar-banco-sudamericano-son-presentados,08 de noviembre de 2012 00:00,"La Policía presentó a Hugo Torres Bermúdez, de 36 años, que registra 6 detenciones por robo y asociación ilícita; Andrés  Morán Panchana, de 23 años; Ricardo Jaramillo Lara, de 32; y Timmy Bonilla Apolinario, de 20, acusados de robar el Banco Sudamericano de tenencia ilegal de armas de fuego."
+321,Robo y contrabando de combustible se realiza con placas clonadas,/noticias/informacion-general/1/robo-y-contrabando-de-combustible-se-realiza-con-placas-clonadas,07 de noviembre de 2012 00:00,Las mafias de contrabando de combustible no dejan de inventar formas para continuar con su actividad ilícita en la zona de la frontera con Colombia.
+322,Desarticulan a presunta banda dedicada al robo y asalto en agencias bancarias en Guayaquil,/noticias/judicial/12/desarticulan-a-presunta-banda-dedicada-al-robo-y-asalto-en-agencias-bancarias-en-guayaquil,02 de noviembre de 2012 00:00,"Agentes de la Policía Judicial del Guayas (PJ-G) investigan por presunto asalto y robo modalidad sacapintas, a Jenny Jessenia Z., de 32 años. Mónica Gabriela O., de 28; y Sergio Ricardo H., de 33."
+323,Enmascarados se apoderan de 56 mil dólares,/noticias/judicial/12/enmascarados-se-apoderan-de-56-mil,31 de octubre de 2012 00:00,"La Policía Judicial del Guayas inició ayer las indagaciones para dar con la identidad de los delincuentes que asaltaron, la tarde del lunes anterior, la agencia del Banco Comercial de Manabí, ubicada en la calle Baquerizo Moreno y Av. 9 de Octubre, centro de Guayaquil."
+324,El “arte” de dormir a las víctimas no da tregua,/noticias/judicial/12/el-arte-de-dormir-a-las-victimas-no-da-tregua,28 de octubre de 2012 00:00,"Es    sábado por la noche y en  el bar “El Descanso”, situado en las  calles Primero de Mayo y Tungurahua, las cervezas marcan  la tónica del ambiente   mientras  un partido de fútbol es   transmitido por un canal local.  Todo transcurre con normalidad  hasta que en una de las mesas   dos  atractivas señoritas llaman la atención de tres  jóvenes."
+325,Robo de cilindros de gas desabastece a ciudadela,/noticias/regional-sur/2/robo-de-cilindros-de-gas-desabastece-a-ciudadela,12 de octubre de 2012 00:00,"En la Fiscalía de Huaquillas, la Agencia Regional de Control Hidrocarburífero (ARCH) de El Oro presentó una denuncia por la desaparición de 1.403 cilindros de gas."
+326,Robo y delitos sexuales se incrementaron en Cuenca,/noticias/regional-sur/2/robo-y-delitos-sexuales-se-incrementaron-en-cuenca,10 de octubre de 2012 00:00,"Un diagnóstico elaborado por el Consejo de Seguridad Ciudadana y el Centro de Estudios Estratégicos evidencia un incremento en algunos hechos delincuenciales en Cuenca, en lo que va de 2012.  "
+333,Julianne Moore es víctima de millonario robo en su mansión,/noticias/espectaculos/10/julianne-moore-es-victima-de-millonario-robo-en-su-mansion,05 de octubre de 2012 00:00,"A la actriz estadounidense Julianne Moore la remodelación de su mansión le costó caro, luego de ser víctima de un millonario robo. La protagonista de ‘Hannibal’ perdió sus joyas valoradas en 127 mil dólares."
+334,Antonio Valencia es víctima de robo en el aeropuerto,/noticias/deportes/7/antonio-valencia-es-victima-de-robo-en-el-aeropuerto,14 de septiembre de 2012 07:56,El volante ecuatoriano Antonio Valencia sufrió el robo de su cámara fotográfica la madrugada de este viernes cuando iba rumbo a Inglaterra desde el aeropuerto de Quito. Valencia contó el hecho mediante su cuenta twitter donde se mostró indignado.
+335,Una familia es sedada con escopolamina para robarle,/noticias/judicial/12/una-familia-es-sedada-con-escopolamina-para-robarle,13 de septiembre de 2012 00:00,"Una presunta intoxicación con escopolamina, también conocida como burundanga, se registró la madrugada de ayer, luego de que cuatro miembros de una familia fueran encontrados inconscientes en el interior de su vivienda, situada en el sector de las calles 19 y Maldonado, suroeste de Guayaquil."
+336,Ex militar es detenido en delito flagrante por robar en domicilio,/noticias/judicial/12/ex-militar-es-detenido-en-delito-flagrante-por-robar-en-domicilio,13 de septiembre de 2012 00:00,"Un ex combatiente del Cenepa fue ayer detenido, luego de que fuera acusado del robo de varios artículos en un domicilio ubicado en las calles 5ta y Las Monjas, ciudadela Urdesa, al norte de Guayaquil."
+337,"Hombre muere, tras robo a cliente de banco en Ambato",/noticias/judicial/12/hombre-muere-tras-robo-a-cliente-de-banco-en-ambato,06 de septiembre de 2012 00:00,"Como José Luis Rodríguez Rueda, de 35 años, y oriundo de Loja, fue identificada la víctima mortal de un asalto a un cliente de la agencia del Banco de Machala, situada en el centro de Ambato, Tungurahua."
+338,Empleado del MSP es detenido por presunto robo de medicinas,/noticias/judicial/12/empleado-del-msp-es-detenido-por-presunto-robo-de-medicinas,01 de septiembre de 2012 00:00,"Como Aníbal Manzo Santana fue identificado el conductor de un vehículo del Ministerio de Salud Pública (MSP) que fue detenido, la mañana de ayer, en el hospital Abel Gilbert de Guayaquil, luego de hallarse en el automotor medicinas que no pudo justificar su legal procedencia."
+339,"Ladrones roban bicicleta de Hindes, campeón olímpico",/noticias/deportes/7/ladrones-roban-bicicleta-de-hindes-campeon-olimpico,30 de agosto de 2012 00:00,"El ciclista británico Philip Hindes, quien ganó el oro en los Juegos Olímpicos de Londres, fue víctima de un robo en su casa, en que los ladrones se llevaron su bicicleta, indicó ayer la policía."
+340,Joven madre denuncia robo de su bebé en Guayaquil,/noticias/judicial/12/joven-madre-denuncia-robo-de-su-bebe-en-guayaquil,02 de agosto de 2012 00:00,Una bebé de apenas 27 días de nacida fue arrebatada con engaños de los brazos de su madre. Ashley Geanella es la niña plagiada que nació en la maternidad Enrique Sotomayor y permaneció durante 25 días dentro de una incubadora.
+341, Trece personas son detenidas por venta ilegal de entradas a los JJ.OO.; otras están acusadas de robo,/noticias/noticias/7/trece-personas-son-detenidas-por-venta-ilegal-de-entradas-a-los-jjoo-otras-estan-acusadas-de-robo,30 de julio de 2012 00:00,"La unidad olímpica de Scotland Yard asestó un golpe contra la venta ilegal de entradas olímpicas: desde el comienzo de los Juegos de Londres, el viernes, se detuvo a 13 personas, anunciaron ayer fuentes oficiales."
+342,Caen 7 presuntos asaltantes,/noticias/judicial/12/caen-7-presuntos-asaltantes,27 de julio de 2012 00:00,"Como resultado de los trabajos de inteligencia realizados por agentes de la Policía Judicial, la noche del miércoles anterior, siete personas fueron detenidas en delito flagrante cuando intentaban asaltar las bodegas de la compañía Videsa, ubicadas frente a la ciudadela San Felipe, al noroeste de Guayaquil."
+349,Dos presuntos delincuentes son apresados por robo a bus intercantonal,/noticias/judicial/12/dos-presuntos-delincuentes-son-apresados-por-robo-a-bus-intercantonal,25 de julio de 2012 16:56,"La Policía Nacional apresó a dos sujetos a la altura del kilómetro 24 frente a la gasolinera PDV vía principal del cantón Yaguach, que asaltaban a los pasajeros del bus de transporte intercantonal Mariscal Sucre disco-38 que circulaba desde Milagro a Guayaquil.Los gendarmes informaron que los dos detenidos responden a las identidades de Felix Walter Risco Peñafiel de 23 años y Carlos Alberto Caballero Mora de 22 años. Ambos portaban dos revólveres cal. 38mm de fabricación artesanal, con las cuales amedrentaron a los usuarios del bus intercantonal."
+350,Cuatro detenidos por robo a empresa minera en Zaruma,/noticias/regional-sur/2/cuatro-detenidos-por-robo-a-empresa-minera-en-zaruma,25 de julio de 2012 00:00,"En la vía Zaruma-Catamayo y en la parroquia La Peaña, perteneciente al cantón El Guabo, fueron detenidas cuatro personas presuntamente implicadas en el robo a una mina."
+351,Lingotes de oro fueron robados en bóveda de Portovelo,/noticias/judicial/12/lingotes-de-oro-fueron-robados-en-boveda-de-portovelo,24 de julio de 2012 13:41,La madrugada de ayer se registró un robo en la bóveda de la empresa Elipe de Portovelo en la Provincia de El Oro. La empresa denunció esta mañana el  robo de alrededor de 38 kilos de lingotes de oro y plata avaluados en dos millones de dólares.
+352,Yahoo admite robo de 450.000 contraseñas,/noticias/tecnologia/6/yahoo-admite-robo-de-450000-contrasenas,13 de julio de 2012 00:00,"La empresa de internet Yahoo admitió hoy haber sufrido el robo de hasta 450.000 nombres y contraseñas de correo electrónico de un ""archivo antiguo"", después de que un grupo de piratas informáticos publicara datos en una web de acceso público."
+353,"Robo de 1,3 millones en el HCAM",/noticias/informacion-general/1/robo-de-13-millones-en-el-hcam,23 de junio de 2012 00:00,"La coordinadora nacional de Gestión de Unidades Médicas del Instituto Nacional de Seguridad Social (IESS), María Sol Larrea, anunció ayer que tras una auditoría se detectó el robo de 1,3 millones de dólares  que correspondían al presupuesto del hospital Carlos Andrade Marín."
+354,Sospechoso secuestrador de fiscal es hallado en Ventanas,/noticias/judicial/12/sospechoso-secuestrador-de-fiscal-es-encontrado-en-ventanas,07 de junio de 2012 15:49,"
+En la provincia de Los Ríos fue detenido   Fernando Santana Lara, de 31 años, presunto principal sospechoso del asalto y robo del abogado Jorge Sosa Meza y la fiscal Fabiola Gallardo Ramia.
+
+
+La captura de ocurrió el  miércoles anterior, luego de que los agentes, a través de labores básicas de inteligencia, locarizaran el vehículo Kia  negro con placas GSC-8942,  en un garaje  situado en las calles 10 de Agosto entre Pacífico Gordillo y Ricardo Astudillo.
+
+Los agentes de policía decomisaron el vehículo. Santana tenía en su poder las llaves del carro y el teléfono celular de uno de los perjudicados. Luego, fue trasladado a  la PJ-G, en  donde la que las víctimas del robo lo identificaron como quien utilizó un arma de fuego para intimidarlas y conducirlas a   un inmueble  situado en el Bloque 1 de El Fortín.
+
+Eso aconteció  el pasado 3 de junio, alrededor de las 23:00, cuando  el abogado en  libre ejercicio  Jorge Sosa  y María Gallardo,   fiscal de Tránsito,  se trasladaban  en el vehículo antes mencionado   por Urdesa Central.
+
+Hasta el momento la policía ha capturado dos de los tres implicadoes en el caso Fernando  Santana y  Héctor  Vera Moreira, quien se  encargaba de   cuidar a las víctimas en esa vivienda. 
 "
-18,11 de septiembre de 2020 17:49,Banda de hackers robaba dinero de cuentas bancarias en Quito,La Policía detuvo a los hackers que sustraían dinero a clientes del Banco del Pacífico.
-19,03 de septiembre de 2020 18:36,Robo de computadoras en edificio de la Contraloría del Estado,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-20,23 de julio de 2020 11:02,Con inhibidores de señal evitaban que camioneros asaltados pidan ayuda,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-21,21 de julio de 2020 11:45,Chofer de bus se desvió a escuela militar para evitar robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-22,14 de julio de 2020 10:53,Dos detenidos por extorsionar a mujer tras robo de moto,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-23,08 de julio de 2020 17:50,Hombre falleció de un balazo en la cabeza por impedir un robo a su pareja,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-24,24 de agosto de 2021 18:03,PPL de altísima peligrosidad fueron cambiados de centro de rehabilitación,El SNAI coordinó las acciones para este movimiento desde Latacunga.
-25,01 de julio de 2020 10:57,Dos extranjeros robaron joyas en centro comercial de Quito,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-26,01 de julio de 2020 00:00,El robo de pertenencias a Augusto Itúrburu sigue sin resolverse,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-27,17 de mayo de 2020 17:26,"Luchadores de UFC se solidarizan por ""robo"" a 'Chito' Vera","
-
-Barcelona acumula tres derrotas seguidas
-
-¿Qué pasa con el campeón nacional en la LigaPro?"
-28,07 de mayo de 2020 10:10,Privados de libertad investigados por robo en bodega de productos de Regional Guayas,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-29,24 de abril de 2020 11:16,Un adulto y un menor robaban bienes en una escuela de Ambato,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-30,15 de abril de 2020 15:08,27 sectores de Guayaquil afectados por robo de cables telefónico,"Los robos de cables telefónicos se registraron en 27 sectores de Guayaquil, desde el 9 de marzo hasta el 7 de abril. Esta situación afectó a 9.500 familias abonadas al servicio, que es necesario durante la emergencia sanitaria por el covid-19."
-31,14 de abril de 2020 10:00,Gabarra con camarón fue saqueada dos veces en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-32,13 de abril de 2020 17:52,Ecuatorianos denuncian robo de equipaje en vuelo humanitario,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-33,17 de marzo de 2020 09:17,Coronarivus: Ladrones roban miles de mascarillas en Alemania,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-34,10 de marzo de 2020 08:06,Roban más de $15 millones de un camión blindado en Chile,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-35,06 de marzo de 2020 11:00,"Detienen a ""La Chilena"", mujer que vació casa donde le dieron posada","
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-36,27 de febrero de 2020 09:53,"Siete procesados en Bolívar se robaron celulares, un vehículo y hasta un perro","
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-37,21 de febrero de 2020 16:07,Perú recuperó manuscrito inca escrito por un descendiente de Huayna Capac,"
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-38,14 de enero de 2020 12:14,Delincuentes incendian cajero en centro de revisión vehicular de Capulispamba,"La atención en el Centro de Revisión Técnica Vehicular (RTV) de Capulispamba (norte de Cuenca) fue suspendida este martes 14 de enero del 2020, luego de que delincuentes provocaran un incendio al intentar robar un cajero automático en el interior de sus instalaciones. "
-39,06 de enero de 2020 13:12,"Por agujero, delincuentes entran a robar en entidad financiera","
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-40,05 de enero de 2020 12:58,Retenidos cuatro sospechosos de robo en la Ecovía,"Cuatro personas han sido retenidas en el sistema de transporte municipal tras ser señaladas como sospechosos de robo en una unidad de la Ecovía en la capital del país, se conoció retenidas este sábado 4 de enero de 2020."
-41,02 de enero de 2020 15:33,Motorizado fue herido de bala durante robo en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-42,16 de diciembre de 2019 15:27,Ilegales pide ayuda para recuperar sus instrumentos en España,"Cinco guitarras y un bajo de la banda asturiana fueron sustraídos de su furgoneta, en Cataluña, el 14 de diciembre de 2019. Los músicos han difundido detalles de los instrumentos en redes sociales."
-43,14 de diciembre de 2019 18:00,Roban datos bancarios de unos 29.000 empleados de Facebook,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-44,10 de diciembre de 2019 13:37,Adulta mayor murió en un robo en su casa en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-45,30 de noviembre de 2019 00:00,Consumo de droga y robo de cajetines,"Se está haciendo costumbre que consumidores de “H” en la zona céntrica de Guayaquil, en 9 de Octubre y Baquerizo Moreno o el sector de P. Icaza, se aprovechan del ancho de los pilares estructurales para realizar consumo de droga, necesidades biológicas y en la noche y madrugada, entre la 01:00 y 03:00, el robo de tapas de cajetines de fibra o cable, de tapas de registros, rejillas de transformadores, medidores de agua, reflectores, simplemente el centro de la ciudad, en la madrugada, es tierra de nadie. "
-46,22 de noviembre de 2019 10:15,Roban equipos tecnológicos de la final de la Libertadores,"
-
-Club Ñañas y Deportivo Cuenca se volverán a enfrentar en la final de la Superliga Femenina
-
-La tercera edición de la competencia ya tiene a los dos clubes clasificados que disputarán el título"
-47,07 de noviembre de 2019 00:51,Una fuente radioactiva fue sustraída en el sur de Quito,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-48,11 de octubre de 2019 00:00,Tres procesados por robo y daños en la Contraloría,La Fiscalía inició una indagación para dar con el resto de responsables. En el organismo de control reposa información sobre irregularidades del anterior gobierno.
-49,20 de septiembre de 2019 12:29,"Cabecilla de banda dedicada al secuestro, extorsión y asalto registra 17 detenciones","
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-50,17 de septiembre de 2019 12:02,"Información vulnerada de datos es responsabilidad del Estado, dice experto en seguridad","
-
-Hacienda la Compañía, 27 años de historia en la producción de rosas en Ecuador
-
-Conoce el proceso de producción, venta y distribución de rosas en Cayambe."
-51,17 de septiembre de 2019 00:00,"Policía desarticula 18 bandas delictivas, entre el jueves y el domingo","
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-52,10 de septiembre de 2019 16:54,Tres estudiantes procesados por robo al no devolver dinero que hallaron en la calle,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-53,07 de septiembre de 2019 14:15,Directora del Archivo Histórico confirmó la desaparición del Testamento de Eugenio Espejo,"
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-54,03 de septiembre de 2019 00:00,Partes robadas de carros se venden en tres sectores,En las zonas conocidas como “cachinerías” se hallan repuestos y accesorios de procedencia no justificada. Hay bandas dedicadas a sustraerse las piezas bajo pedido.
-55,30 de agosto de 2019 12:20,Policía frustra asalto a entidad bancaria en Naranjal,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-56,29 de agosto de 2019 00:00,La jueza que dejó libre a 8 procesados en caso Sinaí es separada de área penal,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-57,26 de agosto de 2019 09:51,Delincuentes disparan tras robar en panadería de Urdesa,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-58,12 de agosto de 2019 00:00,Implicado en robo aseguró que Vanessa era cómplice,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-59,30 de julio de 2019 12:00,Hacker roba datos de 106 millones de clientes del banco Capital One,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-60,19 de julio de 2019 12:59,Asaltante amenazó a cajera con foto de su casa y se llevó $6.000,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-61,11 de julio de 2019 20:51,"Kenig, investigado por robo de carros en Argentina, habla de difamación","
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-62,10 de julio de 2019 16:30,Comerciantes de la plaza San Francisco son víctimas de robos,"Tres robos ocurridos en la plazoleta de San Francisco, en el centro de Cuenca, se suman a una serie de hurtos sucedidos en las últimas semanas en la capital azuaya."
-63,05 de julio de 2019 22:10,Policía desarticula banda dedicada al asalto y robo de automotores,"En posesión de los criminales se hallaron dos vehículos reportados como robados, un vehículo en el que se movilizaban y un arma de fuego."
-64,21 de junio de 2019 10:00,Detenido dijo que se llevó bicicleta de vigilante por confusión,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-65,21 de junio de 2019 09:51,Por un celular condenan a un hombre a 18 meses de cárcel en Ambato,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-66,08 de mayo de 2019 18:12,Guardia fallece por herida de bala en robo de una camaronera,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-67,21 de abril de 2019 10:13,Pertenencias de Salvador Allende fueron robadas en Chile,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-68,08 de abril de 2019 12:15,Parque inclusivo de Riobamba fue objeto de vandalismo y robo,"A 10 días de haberse inaugurado el parque inclusivo en Riobamba, las autoridades reportaron que vándalos dañaron los juegos e incluso se sustrajeron el asiento diseñado exclusivamente para una persona con más del 80% de discapacidad."
-69,04 de abril de 2019 00:00,En 77 días roban 86.165 celulares a nivel nacional,Treinta minutos es el tiempo promedio que tardan técnicos en centros clandestinos para liberar un teléfono móvil que ha sido bloqueado por robo o pérdida.
-70,25 de marzo de 2019 08:30,Cuatro personas fueron detenidas por robar en locales de centro comercial,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-71,23 de marzo de 2019 18:14,Detenidos en España dos ancianos que atracaban bancos,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-72,18 de marzo de 2019 19:37,Hombre asesina de un tiro a vecino por supuesto robo de ropa interior,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-73,21 de febrero de 2019 13:38,Policía detiene a cuatro personas por robo en consulado de Venezuela,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-74,20 de febrero de 2019 20:42,Asaltan en consulado de Venezuela de Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-75,15 de febrero de 2019 10:00,Operativos dejan varios detenidos por robo y extorsión,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-76,09 de febrero de 2019 17:00,Delincuentes roban dinero de cajero automático recién habilitado,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-77,08 de febrero de 2019 00:00,2.408 denuncias de robo se receptan durante 2019,"Según la Policía Judicial (PJ), entre enero y febrero se detuvo a 132 personas por este delito. En Quito, ciudadanos demandan seguridad en las zonas turísticas y en las principales vías del país."
-78,30 de enero de 2019 11:16,Detenidos 16 vinculados a robo de entidad bancaria en Manta,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-79,27 de diciembre de 2018 14:08,Las FF.AA. detectan tubería para robar combustible estatal,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-80,26 de diciembre de 2018 13:34,Reina de Quito denunció el robo de su celular,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-81,10 de diciembre de 2018 13:56,Un millón de dólares sería el monto sustraído a entidad bancaria en Manta,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-82,09 de diciembre de 2018 19:00,Robo a un banco se registró en centro comercial de Manta,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-83,30 de noviembre de 2018 09:58,Agentes frustraron robo de $ 10.000 en local de lotería al sur de Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-84,25 de octubre de 2018 04:20,Ciudadano fue detenido cuando robaba partes de paradero urbano en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-85,07 de septiembre de 2018 16:43,Policía desarticula banda dedicada a robo de locales comerciales en Manta,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-86,30 de agosto de 2018 00:05,Prisión preventiva para seis detenidos por robo en el norte de Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-87,16 de agosto de 2018 11:46,"Bandas dedicadas al robo, estafa y piratería marítima caen en megaoperativo","
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-88,06 de agosto de 2018 17:35,Armada recupera en Esmeraldas una embarcación que fue robada en Manta,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-89,08 de julio de 2018 00:00,Sospechoso de robar en oficina de la CTE portaba un grillete,"Durante el asalto, un miembro de la entidad de tránsito resultó herido con un disparo en la pierna. Los ladrones se llevaron $ 7.100 y celulares de los usuarios."
-90,28 de junio de 2018 00:00,Plan “Vehículo Seguro” bajará el robo de autos,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-91,21 de junio de 2018 00:00,"Sospechosos de crimen de mujer, tras las rejas","La víctima fue estrangulada en su casa por dos individuos que se apoderaron de $ 15.000, de los cuales la Policía recuperó $ 12.650, tras un operativo."
-92,13 de junio de 2018 00:00,Ladrón golpea amujer y le arrebata el celular,La Policía confía en que detendrán al maleante y su cómplice. Nueve bandas delictivas fueron desarticuladas en el distrito Modelo de Guayaquil.
-93,07 de junio de 2018 07:32,Roban datos de 92 millones de usuarios de la web genealógica MyHeritage,"
-
-Hacienda la Compañía, 27 años de historia en la producción de rosas en Ecuador
-
-Conoce el proceso de producción, venta y distribución de rosas en Cayambe."
-94,05 de junio de 2018 00:00,El Gobernador de Azuay denuncia robo de dinamita,Se presume que los comuneros que intentaron tomarse el campamento de Río Blanco sustrajeron 2.600 tacos del explosivo. Ecuarunari califica las acusaciones como falsas.
-95,16 de mayo de 2018 09:57,Miembro de banda delictiva en Quito cuenta con 14 arrestos por robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-96,09 de mayo de 2018 18:22,"Robaron el traje de ""Iron Man"", valorado en $ 325.000","
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
- Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-97,27 de abril de 2018 17:00,Policía desarticula banda que robó $ 250.000 de banco en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-98,26 de abril de 2018 13:28,Ladrones exigían hasta $ 300 por motos y $ 3.000 por carros robados,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-99,19 de marzo de 2018 12:20,Estatua de Alberto Spencer no fue robada; está en mantenimiento,"Varios ciudadanos del centro de Guayaquil, específicamente de las calles Luzurraga y Panamá, reportaron esta mañana la ""desaparición"" de la estatua en honor del goleador ecuatoriano Alberto Spencer."
-100,11 de marzo de 2018 13:33,Encuentran a dos niños que estaban en un taxi cuando fue hurtado en Ecuador,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-101,19 de febrero de 2018 10:30,Operativo 'Impacto 68' deja 4 detenidos por robo y microtráfico,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-102,04 de febrero de 2018 16:04,Policía recupera otras 11 computadoras de las robadas en una unidad educativa,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-103,01 de febrero de 2018 12:23,'Operativo 44' desarticuló a banda dedicada al robo en buses,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-104,30 de enero de 2018 15:11,Cae banda de delincuentes que operaban en Cotopaxi y Pichincha,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-105,05 de enero de 2018 11:55,"Hallan la botella de vodka ""más cara del mundo"", pero vacía","La botella, de la marca Russo-Baltique, estaba valorada en $ 1,3 millones antes del robo."
-106,22 de diciembre de 2017 13:41,'Mega Fortaleza 6' detuvo a 14 personas en varias provincias,"La acción antidelictiva se realizó de forma simultánea en las provincias de Pichincha, Esmeraldas, Tungurahua, El Oro y Los Ríos."
-107,27 de noviembre de 2017 18:11,Lancha recuperada fue entregada a su dueña,"Carmen Santana, de Puerto López, sintió alegría al ver nuevamente su lancha que fue recuperada, tras haber sido sustraída hace 15 días. Ella recibió, a través de autoridades marítimas, la embarcación la tarde de este lunes 27 de noviembre, en los predios de la Capitanía del Puerto de Manta, acompañada de varios familiares."
-108,16 de agosto de 2017 13:15,'Fortaleza 44' desarticuló presunta banda que robaba en entidades financieras,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-109,19 de julio de 2017 20:55,Policía detuvo a dos personas por presunto robo en la Metrovía,"Dos presuntos implicados en cometer robos mediante el sistema de descuideros  fueron arrestados por personal del Grupo de Operaciones Motorizadas (GOM), del Circuito La Atarazana de la Policía, en el interior de la parada de la Metrovía, de la Av. Pedro Menéndez Gilbert y Plaza Dañín."
-110,25 de mayo de 2017 18:16,Dos extranjeros detenidos por intento de robo en el centro de Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-111,24 de mayo de 2017 16:50,Tres extranjeros detenidos por estruche de vivienda en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-112,04 de mayo de 2017 16:21,Robo de combustible detona enfrentamientos que dejan 10 muertos en México,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-113,26 de abril de 2017 17:40,Policía recupera embarcaciones y motores fuera de borda robados en camaronera,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-114,25 de abril de 2017 19:00,Cuatro detenidos por robo de armas en camaronera de Durán,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-115,21 de abril de 2017 16:25,Tres detenidos por asalto a locales comerciales en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-116,04 de abril de 2017 16:08,La Policía desarticuló en Milagro una banda dedicada a robar en unidades educativas,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-117,19 de enero de 2017 16:12,Presunto ladrón de láminas de oro en Manhattan fue aprehendido en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-118,18 de enero de 2017 09:01,Las joyas robadas a Kim Kardashian en París fueron fundidas y retalladas,"
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-119,03 de enero de 2017 17:18,Roban $ 6 millones en joyas cerca de Times Square en Año Nuevo,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-120,27 de diciembre de 2016 00:00,Ecuatoriano robaba objetos de camiones,"El Departamento de Seguridad Interior y el Consulado de Ecuador en Nueva York no responden los pedidos para confirmar la nacionalidad del sospechoso, sus deportaciones y estatus migratorio."
-121,22 de diciembre de 2016 16:50,Policía de Nueva York identifica a hombre que robó balde lleno de oro,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-122,22 de noviembre de 2016 11:08,Roban 5 millones de euros a 2 mujeres cataríes en autopista de París,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-123,29 de octubre de 2016 00:00,Una madre presenció cómo los 'sacapintas' asesinaron a su hijo,Francisco Xavier García Moreno recibió un disparo en la pierna izquierda por no dejarse robar. Los autores del crimen no han sido identificados.
-124,28 de septiembre de 2016 14:44,Asaltantes que robaron blindado dejaron un carro abandonado,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-125,06 de julio de 2016 00:00,Aún no hay detenidos por robo de $ 10.500 en Solca,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-126,04 de junio de 2016 00:00,El supuesto autor de crimen por asalto fue aprehendido,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-127,26 de mayo de 2016 12:32,Ocho detenidos por presunto robo en estaciones de la Metrovía,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-128,14 de mayo de 2016 00:00,‘Me robaron mi perfil en Facebook’,"Facebook ha tratado de distinguirse como un lugar para las identidades verdaderas, pero aún no ha logrado proteger a sus usuarios."
-129,04 de marzo de 2016 14:55,Roban a todo un pueblo en Argentina en 10 minutos y se fugan,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-130,27 de febrero de 2016 00:00,Video identifica a 3 personas que participaron en un robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-131,23 de febrero de 2016 18:18,"Organización robaba celulares en Colombia y los vendía en Ecuador, Perú y Argentina","
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-132,29 de diciembre de 2015 11:23,ECU-911 y la Policía Nacional evitaron robo de computadoras en escuela de Ambato,"A las 02:22 de hoy personal del ECU-911 de Ambato recibió una llamada alertando un posible robo en la Unidad Educativa Francisco Flor Gustavo Egüez, ubicada cerca del redondel de Huachi Chico, al sur de la ciudad."
-133,18 de noviembre de 2015 00:00,Delincuentes aprovecharon la luz roja para robar 480 pavos,El asalto ocurrió en la isla trinitaria 
-134,17 de noviembre de 2015 00:00,3 guardias fueron detenidos después de robar en hospital,Uno de los sospechosos borraba las huellas 
-135,11 de noviembre de 2015 00:00,La Fiscalía solicita videos tras robo en el Vicente Rocafuerte,El incidente ocurrió el 6 de noviembre 
-136,06 de noviembre de 2015 00:00,"Sospechoso de robar $ 18 mil, detenido","El asalto ocurrió en una hostería de la parroquia baños, en cuenca "
-137,26 de septiembre de 2015 15:23,Roban dos pinturas de Goya ,"
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-138,11 de septiembre de 2015 00:00,Los delincuentes robaban a jóvenes hasta uniformes y útiles escolares,4 detenidos en quito
-139,21 de julio de 2015 00:00,Una joven de 25 años fue baleada por evitar robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-140,09 de julio de 2015 14:45," EE. UU. dice que hackers robaron información de 21,5 millones de personas","
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-141,24 de junio de 2015 00:00,Sospechoso de robo en local de celulares quiso huir subiendo en diferentes buses,Un arma incautadA
-142,21 de junio de 2015 14:37,Presunto responsable de asesinato de policía fue detenido,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-143,10 de junio de 2015 10:16,"Roban ejemplar inédito de ""Cincuenta sombras de Grey"" ","
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-144,01 de junio de 2015 18:04,Colombia ofrece recompensa por valioso óleo de Simón Bolívar que fue robado ,"
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-145,28 de abril de 2015 08:11,Sospechosos de robo a complejo del D. Quito fueron capturados ,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-146,02 de abril de 2015 17:29,"Vanilla Ice hará servicio comunitario, tras acuerdo legal ","
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-147,02 de marzo de 2015 10:32,"Ladrón devuelve vestido de Lupita Nyongo, al asegurar que las perlas son falsas","
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-148,22 de enero de 2015 14:30,"Scolari, indocumentado y sin tarjetas de crédito por robo en Brasil","
-
-Club Ñañas y Deportivo Cuenca se volverán a enfrentar en la final de la Superliga Femenina
-
-La tercera edición de la competencia ya tiene a los dos clubes clasificados que disputarán el título"
-149,17 de enero de 2015 00:00,Los robos de celulares se redujeron a mil por día (Infografía),El ejecutivo realizó 24 objeciones a la ley de telecomunicaciones
-150,15 de enero de 2015 00:00,Ladrones utilizaron un iPod para robar tarjetas de crédito en Reino Unido,Seguridad de claves
-151,16 de diciembre de 2014 13:45,Algunos de los trofeos robados a Red Bull aparecen en un lago,"
-
-Club Ñañas y Deportivo Cuenca se volverán a enfrentar en la final de la Superliga Femenina
-
-La tercera edición de la competencia ya tiene a los dos clubes clasificados que disputarán el título"
-152,02 de noviembre de 2014 18:33,Roban puerta del campo de concentración nazi de Dachau,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-153,17 de septiembre de 2014 00:00,3 presos por robo y extorsión ,Hombre dijo que le pedían $ 1.700 de recompensa 
-154,27 de agosto de 2014 00:00,Diariamente en Lima se reporta el robo de 14.000 celulares y 19 autos,En 2012 se registraron alrededor de 1.968 homicidios en todo perú
-155,19 de agosto de 2014 00:00,Robo y asesinato bajan en Guayaquil,"Mejoras en sauces, Atarazana, Guayacanes, Kennedy, Urdesa y La alborada"
-156,13 de agosto de 2014 00:00,Cinematográfico y millonario robo en el aeropuerto de Santiago de Chile,"Se llevaron $10,5 millones"
-157,06 de agosto de 2014 00:00,El robo de ganado bajó en Guayas,En los primeros 6 meses de 2014 se han presentado 36 denuncias
-158,26 de julio de 2014 00:00,El robo de tapas de desagües causa un perjuicio de $ 25 mil,Entes se unen en tulcán para hallar a culpables 
-159,17 de julio de 2014 00:00,Hay 5 denuncias de robo en cerro Santa Ana al mes,Uno de los moradores dice que el patrullaje solo aumenta en los feriados
-160,07 de julio de 2014 00:00,Adolescente implicado en robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-161,09 de junio de 2014 18:37,Cuatro menores expulsados del entrenamiento de Colombia por intento de robo,"
-
-Club Ñañas y Deportivo Cuenca se volverán a enfrentar en la final de la Superliga Femenina
-
-La tercera edición de la competencia ya tiene a los dos clubes clasificados que disputarán el título"
-162,03 de junio de 2014 00:00,Sospechoso de robo a turista fue aprehendido en terminal, Mujer recuperó su maleta
-163,14 de mayo de 2014 07:24,"Justin Bieber, acusado de intentar robarle un celular a una mujer ","
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-164,08 de mayo de 2014 00:00,240 mil móviles reportados por robo fueron bloqueados (INFOGRAFÍA),El objetivo es disminuir el robo de dispositivos
-165,16 de abril de 2014 00:00,El museo Remigio Crespo Toral sufrió el robo de 12 piezas,El hecho fue detectado cuando una consultora realizaba el inventario y avalúo
-166,15 de abril de 2014 00:00,Robo en el Cabildo latacungueño,Casi $ 25 mil cobrados en impuestos se esfumaron
-167,10 de abril de 2014 00:00,La Policía detuvo a nueve personas acusadas de robo ,"Durante la última semana, la Policía Judicial del Azuay efectuó varios operativos de control en diferentes sectores. En ellos logró la captura de nueve ciudadanos presuntamente vinculados con hechos delictivos, mientras que dos menores de edad fueron aislados."
-168,01 de abril de 2014 00:00,"El robo a personas, delito más cometido en Iñaquito","La policía ha dividido a quito en 13 circuitos para optimizar recursos humanos, logísticos y bajar el tiempo de respuesta"
-169,20 de diciembre de 2013 00:00,Las víctimas de la usura recuperarán sus bienes,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-170,19 de diciembre de 2013 10:21,43 detenidos en operativo “Noche gris” contra la usura,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-171,12 de diciembre de 2013 00:00,El hurto durante tragedia se castiga como robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-172,29 de octubre de 2013 00:00,Taxistas fueron heridos en supuestos intentos de robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-173,21 de octubre de 2013 00:00,Trabas que podrían evitar el robo de un vehículo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-174,12 de octubre de 2013 00:00,Prisión para gendarme por robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-175,03 de septiembre de 2013 00:00,América Latina se une contra el robo de celulares,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-176,29 de agosto de 2013 00:00,Celulares inteligentes se podrán destruir vía web en caso de robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-177,29 de agosto de 2013 00:00,Acusan a policías paraguayos de apoderarse de $ 200.000,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-178,24 de agosto de 2013 00:00,Tres detenidos por el asalto a una camaronera,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-179,06 de agosto de 2013 08:27,Aseguradora ofrece recompensa para recuperar joyas robadas en Francia,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-180,03 de agosto de 2013 00:00,Tres detenidos por robos a personas y a un local,"Dos presuntos miembros de una banda dedicada al robo de personas fueron detenidos por la Policía en Urdesa, norte de Guayaquil. Viajaban en un Chevrolet Spark blanco, que fue identificado por varias de las víctimas."
-181,31 de julio de 2013 00:00,El robo a domicilios sube en estadísticas,"Según las autoridades azuayas existe una disminución en el robo a locales comerciales, vehículos y personas en Cuenca en los últimos meses, pero se  registra un aumento en el robo a domicilios y motos. Las muertes violentas mantienen las mismas estadísticas, con relación al año anterior."
-182,27 de julio de 2013 00:00,Tesorera fue plagiada para robar en cooperativa,"$ 300.000 fueron robados de la cooperativa Comercio Ltda., del cantón Portoviejo, confirmó el gerente, Fabián Santana. La tesorera de la entidad fue plagiada por 6 hombres para usarla como “carnada”."
-183,05 de julio de 2013 00:00,Vecinos de San Roque quieren erradicar las drogas y el robo,"San Roque es uno de los barrios tradicionales de la capital y es conocido como  un centro de abastos  donde confluyen comerciantes de todas las provincias. Sus calles están llenas de vendedores, frutas, legumbres y mariscos, un paisaje ya cotidiano para sus moradores.  "
-184,22 de mayo de 2013 00:00,Policía capturado mientras robaba,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-185,10 de mayo de 2013 00:00,"Tres personas, detenidas por robo en Simón Bolívar","Hasta las dependencias de la Tenencia Política de la parroquia Simón Bolívar, del cantón Pastaza, acudió una ciudadana en días pasados, para denunciar que su tienda había sido asaltada."
-186,17 de abril de 2013 00:00,"Robo de elementos de la regeneración urbana, imparable en las calles","Manuel Miño, comerciante del centro de la urbe, ya no recuerda cuánto tiempo ha pasado desde que se llevaron un tacho de basura de la avenida Machala (a la altura de Luque),  colocado por el Municipio de Guayaquil, a través de la Fundación Guayaquil Siglo XXI,  cuando se inició la regeneración urbana allí hace seis años. "
-187,17 de abril de 2013 00:00,Investigan el robo de fármacos,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-188,15 de abril de 2013 00:00,"Según Observatorio, el robo a personas creció en Guayaquil","
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-189,10 de abril de 2013 00:00,Inició juzgamiento por robo en Quicentro Sur de hace un año,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-190,02 de abril de 2013 00:00,Cuba acusa a EE.UU. de robo de marca de habanos,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-191,30 de marzo de 2013 00:00,Detienen a banda delictiva cuando intentaba robar en una vivienda,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-192,29 de marzo de 2013 00:00,Gendarmes extorsionaban a personas víctimas de robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-193,29 de marzo de 2013 00:00,Capturan a 8 personas acusadas de intento de robo de 80 cerdos,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-194,09 de marzo de 2013 00:00,En Milagro detienen a sujetos acusados de robar a vigilantes,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-195,21 de febrero de 2013 00:00,Detienen al autor del robo de un Dalí en Nueva York ,"
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-196,09 de febrero de 2013 00:00,Hombre es detenido tras robar puerta metálica de un parque,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-197,01 de febrero de 2013 00:00,Desarticulan presunta banda dedicada al robo de ganado,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-198,31 de enero de 2013 00:00,Cuatro sujetos son detenidos en Guayaquil luego de haber robado,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-199,17 de enero de 2013 00:00,Hombre es asesinado por oponerse a asalto y robo en bus,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-200,08 de enero de 2013 00:00,Robo en Municipio de Pasaje,"La madrugada del domingo, delincuentes se sustrajeron la caja fuerte de la oficina de tesorería de la Municipalidad de Pasaje, llevándose documentos valiosos para la institución."
-201,04 de enero de 2013 00:00,Sede de las juntas parroquiales de Esmeraldas sufre robo de su oficina por segunda vez,"El robo que sufrió la sede de la Asociación de Gobiernos Autónomos Parroquiales Rurales de Esmeraldas (Asogopare), ubicada en la capital provincial, dejó pérdidas por alrededor de siete mil dólares."
-202,28 de diciembre de 2012 00:00,Intervención de ciudadanos logra frustrar robo a un local,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-203,02 de diciembre de 2012 00:00,Policía detiene a sospechosos y frustra robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-204,28 de noviembre de 2012 00:00,Baja el número de teléfonos celulares reportados como perdidos o robados en el país,"La Superintendencia de Telecomunicaciones (Supertel) informó que en los últimos meses se ha reducido el reporte de robos o pérdidas de celulares, entre otros factores, por efecto del proceso de empadronamiento en la telefonía móvil que culminó en julio de este año y que logró bajar el comercio ilegal de los equipos."
-205,22 de noviembre de 2012 00:00,Tribunal penal impone sentencia en apenas 17 días de proceso,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-206,12 de noviembre de 2012 07:42,21 sudamericanos detenidos por robar casas y traficar cocaína,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-207,08 de noviembre de 2012 00:00,Los acusados de robar Banco Sudamericano son presentados,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-208,07 de noviembre de 2012 00:00,Robo y contrabando de combustible se realiza con placas clonadas,Las mafias de contrabando de combustible no dejan de inventar formas para continuar con su actividad ilícita en la zona de la frontera con Colombia.
-209,02 de noviembre de 2012 00:00,Desarticulan a presunta banda dedicada al robo y asalto en agencias bancarias en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-210,31 de octubre de 2012 00:00,Enmascarados se apoderan de 56 mil dólares,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-211,28 de octubre de 2012 00:00,El “arte” de dormir a las víctimas no da tregua,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-212,12 de octubre de 2012 00:00,Robo de cilindros de gas desabastece a ciudadela,"En la Fiscalía de Huaquillas, la Agencia Regional de Control Hidrocarburífero (ARCH) de El Oro presentó una denuncia por la desaparición de 1.403 cilindros de gas."
-213,10 de octubre de 2012 00:00,Robo y delitos sexuales se incrementaron en Cuenca,"Un diagnóstico elaborado por el Consejo de Seguridad Ciudadana y el Centro de Estudios Estratégicos evidencia un incremento en algunos hechos delincuenciales en Cuenca, en lo que va de 2012.  "
-214,05 de octubre de 2012 00:00,Julianne Moore es víctima de millonario robo en su mansión,"
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-215,14 de septiembre de 2012 07:56,Antonio Valencia es víctima de robo en el aeropuerto,"
-
-Club Ñañas y Deportivo Cuenca se volverán a enfrentar en la final de la Superliga Femenina
-
-La tercera edición de la competencia ya tiene a los dos clubes clasificados que disputarán el título"
-216,13 de septiembre de 2012 00:00,Una familia es sedada con escopolamina para robarle,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-217,13 de septiembre de 2012 00:00,Ex militar es detenido en delito flagrante por robar en domicilio,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-218,06 de septiembre de 2012 00:00,"Hombre muere, tras robo a cliente de banco en Ambato","
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-219,01 de septiembre de 2012 00:00,Empleado del MSP es detenido por presunto robo de medicinas,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-220,30 de agosto de 2012 00:00,"Ladrones roban bicicleta de Hindes, campeón olímpico","
-
-Club Ñañas y Deportivo Cuenca se volverán a enfrentar en la final de la Superliga Femenina
-
-La tercera edición de la competencia ya tiene a los dos clubes clasificados que disputarán el título"
-221,02 de agosto de 2012 00:00,Joven madre denuncia robo de su bebé en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-222,30 de julio de 2012 00:00, Trece personas son detenidas por venta ilegal de entradas a los JJ.OO.; otras están acusadas de robo,"
-
-Club Ñañas y Deportivo Cuenca se volverán a enfrentar en la final de la Superliga Femenina
-
-La tercera edición de la competencia ya tiene a los dos clubes clasificados que disputarán el título"
-223,27 de julio de 2012 00:00,Caen 7 presuntos asaltantes,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-224,25 de julio de 2012 16:56,Dos presuntos delincuentes son apresados por robo a bus intercantonal,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-225,25 de julio de 2012 00:00,Cuatro detenidos por robo a empresa minera en Zaruma,"En la vía Zaruma-Catamayo y en la parroquia La Peaña, perteneciente al cantón El Guabo, fueron detenidas cuatro personas presuntamente implicadas en el robo a una mina."
-226,24 de julio de 2012 13:41,Lingotes de oro fueron robados en bóveda de Portovelo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-227,13 de julio de 2012 00:00,Yahoo admite robo de 450.000 contraseñas,"
-
-Hacienda la Compañía, 27 años de historia en la producción de rosas en Ecuador
-
-Conoce el proceso de producción, venta y distribución de rosas en Cayambe."
-228,23 de junio de 2012 00:00,"Robo de 1,3 millones en el HCAM","La coordinadora nacional de Gestión de Unidades Médicas del Instituto Nacional de Seguridad Social (IESS), María Sol Larrea, anunció ayer que tras una auditoría se detectó el robo de 1,3 millones de dólares  que correspondían al presupuesto del hospital Carlos Andrade Marín."
-229,07 de junio de 2012 15:49,Sospechoso secuestrador de fiscal es hallado en Ventanas,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-230,26 de mayo de 2012 00:00,La biblioteca más antigua de Nápoles fue saqueada,"
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-231,11 de mayo de 2012 00:00,Delincuentes roban en vivienda del alcalde de Santa Lucía,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-232,29 de abril de 2012 14:50,Roban en Río de Janeiro un automóvil que transportaba material radiactivo,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-233,25 de abril de 2012 09:37,Internautas chinos podrán proteger de robo sus bienes digitales,"
-
-Impactantes y coloridos diseños de bordado son elaborados en la hacienda Pinsaqui
-
-Conoce cómo obtener un bordado a mano tradicional en la hacienda Pinsaqui"
-234,17 de abril de 2012 17:08,Ministerio del Interior desmiente que el robo en una bodega del Consep sea de una tonelada de droga,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-235,13 de abril de 2012 10:19,Delincuentes roban partes de autos chocados en Guayaquil,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-236,03 de abril de 2012 00:00,Mujer forcejea con pillo y evita robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-237,29 de marzo de 2012 09:36,"Bélgica: denuncian robo de bicicletas con campeonato de ""ladrones""","
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-238,27 de marzo de 2012 00:00,Denuncian robo sistemático de bebés durante dictadura,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-239,20 de marzo de 2012 00:00,Atraco en iglesia evangélica deja cerca de 5.000 dólares en pérdidas,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-240,01 de marzo de 2012 00:00,Tres sospechosos de asaltar una joyería fueron detenidos,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-241,19 de enero de 2012 10:00,Policía captura a dos acusados de robar en cafetería de Urdesa,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-242,14 de octubre de 2011 09:29,Supuestos estudiantes asaltaron facultad de U. de Guayaquil,"Tres sujetos armados asaltaron la tarde de ayer las oficinas de la Facultad de Ciencias Administrativas de la Universidad de Guayaquil, al norte de la ciudad.Se hicieron pasar como estudiantes para ingresar a la dependencia. Amarraron y encerraron al personal que se encontraba en el lugar."
-243,06 de octubre de 2011 08:31,Policía capturó a ocho una banda que se dedicaba al robo de autos,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-244,01 de octubre de 2011 00:00,Ministerio de Electricidad denuncia robo de un equipo radiactivo en la vía a Daule,El Ministerio de Electricidad y Energía Renovable (MEER) informó del robo de un elemento radiactivo peligroso. El hecho se suscitó el martes 13 de septiembre en el km 18 vía a Daule y el equipo aún no ha sido recuperado.
-245,02 de septiembre de 2011 00:00,Investigan a uniformado que habría participado en robo,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-246,02 de septiembre de 2011 00:00,Maquinaria que fue robada en marzo pasado fue recuperada,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-247,28 de agosto de 2011 12:45,Detenidos en Chile dos mexicanos por robo de reliquias egipcias,"
-
-El veneno de una serpiente impide la multiplicación del virus Sars-Cov-2
-
-Investigadores de la Universidad Estatal Paulista de Brasil realizaron el estudio con una especie ve..."
-248,03 de agosto de 2011 00:00,El robo informático afecta a más de 600 clientes durante 2011,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-249,29 de julio de 2011 00:00,Policía frustra robo en joyería y detiene a dos sospechosos,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-250,24 de julio de 2011 00:00,Sustrajeron libros históricos de la Biblioteca de Perú,"
-
-MAAC abordará conversatorio virtual sobre procesos de arte fuera de la institucionalidad
-
-Los ponentes será de países como Ecuador, Chile, Suiza, España y Brasil."
-251,13 de julio de 2011 13:34,Ocho hombres detenidos tras asaltar una institución de Ahorro y Crédito,"
-
-Seis PPL fallecieron por amotinamiento en cárcel de Quevedo
-
-La Policía llegó a la cárcel para retomar el control, mientras los familiares de los PPL también se..."
-252,29 de junio de 2011 00:00,Las ladronas de la serían “sexoservidoras”,"
-
-Club Ñañas y Deportivo Cuenca se volverán a enfrentar en la final de la Superliga Femenina
-
-La tercera edición de la competencia ya tiene a los dos clubes clasificados que disputarán el título"
-253,25 de junio de 2011 11:28,Clonación de vehículos robados,"En los últimos meses los medios de comunicación han publicado que son muchos los ""vehículos robados y clonados"" por los ladrones, que han alterado la serie del chasis y motor y placa de estos vehículos, para confundirlos con los originales y poderlos ""matricular como genuinos"" en la Comisión de Tránsito del Ecuador (CTE), a fin de venderlos aparentemente sin ningún poblema legal."
+355,La biblioteca más antigua de Nápoles fue saqueada,/noticias/cultura/10/la-biblioteca-mas-antigua-de-napoles-fue-saqueada,26 de mayo de 2012 00:00,"Un total de 257 libros y manuscritos fueron sustraídos de la biblioteca más antigua de Girolamini en Nápoles, una institución cultural pública construida en el siglo XVI y que alberga obras de la música y ejemplares que abarcan desde el siglo XVI al siglo XIX.    "
+356,Delincuentes roban en vivienda del alcalde de Santa Lucía,/noticias/judicial/12/delincuentes-roban-en-vivienda-del-alcalde-de-santa-lucia,11 de mayo de 2012 00:00,"“No se muevan que esto es un asalto”, fue la frase con la que un grupo de antisociales amedrentó a las personas que se encontraban en el interior del domicilio del alcalde de Santa Lucía, Edson Alvarado Aroca, situado en La Chala,  suroeste de Guayaquil."
+357,Roban en Río de Janeiro un automóvil que transportaba material radiactivo,/noticias/mundo/8/roban-en-rio-de-janeiro-un-automovil-que-transportaba-material-radiactivo,29 de abril de 2012 14:50,Río de Janeiro.- 
+358,Internautas chinos podrán proteger de robo sus bienes digitales,/noticias/tecnologia/6/internautas-chinos-podran-proteger-de-robo-sus-bienes-digitales,25 de abril de 2012 09:37,"Los internautas de China, el país con más usuarios de la red del mundo, podrán declarar ante notario bienes virtuales obtenidos en juegos online, para protegerse legalmente ante eventuales robos, informa este miércoles el diario ""Global Times"". El servicio será ofrecido por primera vez en el país a partir del mes de mayo por una notaría de Shanghai, y surge ante la proliferación de ""robos virtuales"" en los que un jugador pierde todo el dinero o bienes acumulados en un juego y se encuentra sin posibilidades de defenderse legalmente en el ""mundo real"". No obstante, para poder declarar ante notario sus bienes online, los internautas deberán facilitar al notario su ID y contraseña en los servicios de internet relacionados, lo que implica también sus riesgos. Analistas de la red china señalan en todo caso que la iniciativa es un gran paso adelante para regular un sector, el de los juegos online, que en China tiene unos 324 millones de usuarios (casi dos de cada tres internautas del país). Además, los juegos virtuales producen unos ingresos reales de 8.000 millones de dólares en China, la cuarta parte del total mundial. Ya en octubre de 2011, China elaboró la primera ley para proteger los bienes virtuales de internet, tras años de limbo legal y muchos conflictos entre jugadores online. El problema se hizo patente cuando en 2005, también en Shanghái, un hombre que robó y revendió un objeto virtual de un vídeo-juego fue asesinado por un contrincante. Y en diciembre de 2010, una mujer de Pekín que se divorció de su marido, con el que compartía una gran afición por los juegos online, pidió que el dinero virtual y otros objetos obtenidos en la red fueran divididos entre los dos tras la separación, reactivando el debate sobre el tema. "
+365,Ministerio del Interior desmiente que el robo en una bodega del Consep sea de una tonelada de droga,/noticias/judicial/12/ministerio-del-interior-desmiente-que-el-robo-en-una-bodega-del-consep-sea-de-una-tonelada-de-droga-audio,17 de abril de 2012 17:08,"El viceministro del Interior, Xavier Córdova, afirmó este martes que el robo realizado el pasado viernes en una bodega del Consejo de Sustancias Estupefacientes y Sicotrópicas (Consep) aún no está determinada, pero aseguró que no asciende a una tonelada de droga, tal como se afirmó en varios medios de comunicación."
+366,Delincuentes roban partes de autos chocados en Guayaquil,/noticias/judicial/12/chouq,13 de abril de 2012 10:19,Esta madrugada delincuentes robaron componentes de autos que chocaron en el Suburbio de Guayaquil.
+367,Mujer forcejea con pillo y evita robo,/noticias/judicial/12/mujer-forcejea-con-pillo-y-evita-robo,03 de abril de 2012 00:00,"A las 07:00 de ayer “Lucía”, una ciudadana  que  esperaba un bus en una esquina en la ciudadela Garzota 2, al norte de Guayaquil, fue atacada por un sujeto que intentó  arrebatarle  el celular."
+368,"Bélgica: denuncian robo de bicicletas con campeonato de ""ladrones""",/noticias/mundo/8/belgica-denuncian-robo-de-bicicletas-con-campeonato-de-ladrones,29 de marzo de 2012 09:36, Asociaciones de ciclistas de Bruselas y de la región de Flandes han celebrado este jueves y un campeonato simulado de robo de bicicletas para denunciar el incremento de las sustracciones en los últimos años y pedir medidas para combatir el problema.
+369,Denuncian robo sistemático de bebés durante dictadura,/noticias/mundo/8/denuncian-robo-sistematico-de-bebes-durante-dictadura,27 de marzo de 2012 00:00,El abogado de Abuelas de Plaza de Mayo denunció ayer que hubo un plan sistemático perpetrado por una “maquinaria de horror” para el robo de bebés nacidos cuando sus madres estuvieron  presas ilegalmente durante la última dictadura militar argentina.
+370,Atraco en iglesia evangélica deja cerca de 5.000 dólares en pérdidas,/noticias/judicial/12/atraco-en-iglesia-evangelica-deja-cerca-de-5000-dolares-en-perdidas,20 de marzo de 2012 00:00,"La iglesia evangélica Jesús de Nuestros Caminos, situada en la ciudadela Bellavista, fue blanco de la delincuencia el pasado domingo."
+371,Tres sospechosos de asaltar una joyería fueron detenidos,/noticias/judicial/12/tres-sospechosos-de-asaltar-una-joyeria-fueron-detenidos,01 de marzo de 2012 00:00,"Los presuntos implicados en el asalto  de la joyería La Perla, ubicada en las calles Rumichaca y Clemente Ballén, centro de la ciudad, han sido identificados por la Policía Nacional."
+372,Policía captura a dos acusados de robar en cafetería de Urdesa,/noticias/judicial/12/policia-captura-a-dos-acusados-de-robar-en-cafeteria-de-urdesa,19 de enero de 2012 10:00,"La noche del miércoles, dos sujetos amenazaron y posteriormente les robaron a los clientes que estaban en la cafetería Sweet & Coffee, de Urdesa (norte de Guayaquil)."
+373,Supuestos estudiantes asaltaron facultad de U. de Guayaquil,/noticias/guayaquil/2/supuestos-estudiantes-asaltaron-facultad-de-u-de-guayaquil,14 de octubre de 2011 09:29,"Tres sujetos armados asaltaron la tarde de ayer las oficinas de la Facultad de Ciencias Administrativas de la Universidad de Guayaquil, al norte de la ciudad.Se hicieron pasar como estudiantes para ingresar a la dependencia. Amarraron y encerraron al personal que se encontraba en el lugar."
+374,Policía capturó a ocho una banda que se dedicaba al robo de autos,/noticias/judicial/12/la-policia-capturo-a,06 de octubre de 2011 08:31,Anoche ocho miembros de una supuesta banda que robaba automóviles fueron capturados por la Policía en el Guasmo Sur.
+381,Ministerio de Electricidad denuncia robo de un equipo radiactivo en la vía a Daule,/noticias/informacion-general/1/ministerio-de-electricidad-denuncia-robo-de-un-equipo-radiactivo-en-la-via-a-daule,01 de octubre de 2011 00:00,El Ministerio de Electricidad y Energía Renovable (MEER) informó del robo de un elemento radiactivo peligroso. El hecho se suscitó el martes 13 de septiembre en el km 18 vía a Daule y el equipo aún no ha sido recuperado.
+382,Investigan a uniformado que habría participado en robo,/noticias/judicial/12/investigan-a-uniformado-que-habria-participado-en-robo,02 de septiembre de 2011 00:00,"El comandante de Policía del Distrito Metropolitano de Guayaquil,  Patricio Pazmiño, dispuso que  el Departamento de Asuntos Internos realice las investigaciones y determine las faltas disciplinarias  en las cuales habría incurrido Sandro  Armijos Álvarez, miembro policial involucrado  en el delito de asalto y robo."
+383,Maquinaria que fue robada en marzo pasado fue recuperada,/noticias/judicial/12/maquinaria-que-fue-robada-en-marzo-pasado-fue-recuperada,02 de septiembre de 2011 00:00,"Varios equipos de construcción que el pasado 31 de marzo  delincuentes se sustrajeron del campamento de la compañía FACAY S.A., ubicado en la ciudadela Guangala, fueron recuperados por los agentes policiales."
+384,Detenidos en Chile dos mexicanos por robo de reliquias egipcias,/noticias/mundo/8/detenidos-en-chile-dos-mexicanos-por-robo-de-reliquias-egipcias,28 de agosto de 2011 12:45,"Dos mexicanos fueron detenidos en Santiago de Chile tras ser sorprendidos robando valiosas piezas arqueológicas en una exposición de reliquias egipcias que se realiza en la capital chilena, informaron este domingo fuentes policiales."
+385,El robo informático afecta a más de 600 clientes durante 2011,/noticias/judicial/12/el-robo-informatico-afecta-a-mas-de-600-clientes-durante-2011,03 de agosto de 2011 00:00,"De  enero  a julio de este año se ha reportado  alrededor de 600 denuncias por delito informático. Así lo reveló  Paúl Pérez,   fiscal de Delito contra el Patrimonio Ciudadano, quien explicó que esa cifra corresponde a Pichincha."
+386,Policía frustra robo en joyería y detiene a dos sospechosos,/noticias/judicial/12/policia-frustra-robo-en-joyeria-y-detiene-a-dos-sospechosos,29 de julio de 2011 00:00,"Dos sujetos fueron detenidos en delito flagrante en instantes en que saqueaban una joyería en el cantón Milagro, provincia del Guayas."
+387,Sustrajeron libros históricos de la Biblioteca de Perú,/noticias/cultura/10/sustrajeron-libros-historicos-de-la-biblioteca-de-peru,24 de julio de 2011 00:00,"Los resultados del inventario realizado en la Biblioteca Nacional de Perú (BNP), tras la denuncia de la desaparición de varios libros antiguos, reveló que 932 ejemplares históricos fueron sustraídos, publicó ayer el diario local La República.Los ejemplares desaparecidos pertenecen al Fondo de Antigüedad y de Máximo valor que tiene el recinto de la biblioteca, cuya nueva sede fue inaugurada en 2006."
+388,Ocho hombres detenidos tras asaltar una institución de Ahorro y Crédito,/noticias/judicial/12/ocho-hombres-detenidos-tras-asaltar-una-institucion-de-ahorro-y-credito,13 de julio de 2011 13:34,Ocho hombres fueron detenidos que intentaron asaltar la Cooperativa de Ahorro y Crédito La Minga en Guayaquil.
+389,Las ladronas de la serían “sexoservidoras”,/noticias/internacionales/7/las-ladronas-serian-sexoservidoras,29 de junio de 2011 00:00,"A partir del escándalo suscitado en el hotel de Quito, por la presunta presencia de mujeres en las habitaciones de algunos jugadores de la selección Sub 22 de México, ayer intervino la Embajada del país azteca en Ecuador, la cual solicitó al responsable del sitio, que restituya el dinero robado. Sí, el incidente alcanzó tintes diplomáticos."
+390,Clonación de vehículos robados,/noticias/cartas-al-director/1/clonacion-de-vehiculos-robados,25 de junio de 2011 11:28,"En los últimos meses los medios de comunicación han publicado que son muchos los ""vehículos robados y clonados"" por los ladrones, que han alterado la serie del chasis y motor y placa de estos vehículos, para confundirlos con los originales y poderlos ""matricular como genuinos"" en la Comisión de Tránsito del Ecuador (CTE), a fin de venderlos aparentemente sin ningún poblema legal."
