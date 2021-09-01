@@ -1,12 +1,11 @@
 # %%
-from numpy import greater
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 titulo = list()
 link = list()
 # aplicar cada tag y el número de páginas
-tags = {"tag": "robo", "paginas": 26}
+tags = {"tag": "asalto", "paginas": 19}
 # %%
 url = "https://www.eltelegrafo.com.ec/contenido/etiqueta/12/{}".format(
     tags['tag'])

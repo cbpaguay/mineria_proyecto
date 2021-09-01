@@ -1,12 +1,11 @@
 # %%
-from numpy import greater
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 fecha = list()
 titulo = list()
 desc = list()
-df = pd.read_csv('data/robo_eltelegrafo.csv',index_col=['Unnamed: 0'])
+df = pd.read_csv('data/asalto_eltelegrafo.csv',index_col=['Unnamed: 0'])
 i = 1
 # %%
 for l in df.link:
@@ -15,7 +14,7 @@ for l in df.link:
     page = requests.get(url, timeout=30.500)  # obtengo la pagina entera
     soup = BeautifulSoup(page.content, 'html.parser')
     
-    print('Pagina: ', i)
+    print('URL: ', i)
 
     v = soup.find('div',{'class':'itemFullText'})
     desc.append(v.find('p').text)
@@ -30,5 +29,5 @@ df['fecha'] = fecha
 df['descripcion'] = desc
 # %%
 # Exportar los datos a un csv
-df.to_csv('./data/robo_eltelegrafo.csv',sep=',')
+df.to_csv('./data/asalto_eltelegrafo.csv',sep=',')
 # %%
