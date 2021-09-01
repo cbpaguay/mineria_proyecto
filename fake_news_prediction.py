@@ -12,7 +12,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 from nltk.stem import SnowballStemmer
 # %%
-print(stopwords.words('spanish'))
+#print(stopwords.words('spanish'))
 
 # %%
 fake_news_dataset = pd.read_csv('data/complete_dataset.csv')
@@ -37,7 +37,7 @@ news_dataset['descripcion_stem'] = news_dataset['descripcion'].apply(stemming)
 # %%
 from sklearn.model_selection import train_test_split
 
-training_data, testing_data = train_test_split(news_dataset, test_size=0.2, random_state=25)
+training_data, testing_data = train_test_split(news_dataset, test_size=0.2, random_state=0)
 
 # %%
 X = training_data['descripcion_stem'].values
@@ -46,14 +46,15 @@ y = training_data['is_fake'].values
 vectorizer = CountVectorizer()
 X = vectorizer.fit_transform(X)
 # %%
-classifier = LogisticRegression(C = 100, penalty = 'l2', solver= 'newton-cg')
-classifier.fit(X, y)
+#classifier = LogisticRegression(C = 100, penalty = 'l2', solver= 'newton-cg')
+classifier = LogisticRegression(C = 0.1, penalty = 'l2', solver= 'liblinear')
+modelo = classifier.fit(X, y)
 # %%
 # accuracy score on training data
-y_pred_train = classifier.predict(X)
+y_pred_train = modelo.predict(X)
 accuracy_train = accuracy_score(y,y_pred_train)
 from sklearn.model_selection import cross_val_score
-accuracies = cross_val_score(estimator = classifier,X = X,y= y , cv = 10)
+accuracies = cross_val_score(estimator = modelo,X = X,y= y , cv = 10)
 
 
 print("-------------------------------")
@@ -62,22 +63,22 @@ print("Accuracy: {:.2f} %".format(accuracies.mean()*100))
 print("Standard Deviation: {:.2f}".format(accuracies.std()*100))
 # %%
 # grid search to find better hyper parameters
-from sklearn.model_selection import GridSearchCV
-parameters = [{'solver': ['newton-cg','liblinear'], 'penalty': ['l2'],'C': [100, 10, 1.0, 0.1, 0.01]}]
-grid_search = GridSearchCV(estimator=classifier,
-                          param_grid=parameters,
-                          scoring='accuracy',
-                          cv=10)
-grid_search.fit(X,y)
-print("Best Accuracy: {:.2f} %".format(grid_search.best_score_*100))
-print("Best Parameters: ", grid_search.best_params_)
+#from sklearn.model_selection import GridSearchCV
+#parameters = [{'solver': ['newton-cg','liblinear'], 'penalty': ['l2'],'C': [100, 10, 1.0, 0.1, 0.01]}]
+#grid_search = GridSearchCV(estimator=modelo,
+#                          param_grid=parameters,
+#                          scoring='accuracy',
+#                          cv=10)
+#grid_search.fit(X,y)
+#print("Best Accuracy: {:.2f} %".format(grid_search.best_score_*100))
+#print("Best Parameters: ", grid_search.best_params_)
 # %%
 # seperating the data and vectorizing to predict the labels from the model we made!
 X_test = testing_data['descripcion_stem']
 X_test = vectorizer.transform(X_test)
 # %%
 # now to predict the labels from the model!
-y_pred_final = classifier.predict(X_test)
+y_pred_final = modelo.predict(X_test)
 print(y_pred_final)
 # %%
 y_pred_final.shape
@@ -103,3 +104,14 @@ print('Outcome values : \n', tp, fn, fp, tn)
 # classification report for precision, recall f1-score and accuracy
 matrix = classification_report(actual,predicted,labels=[1,0])
 print('Reporte de Clasificacion : \n',matrix)
+#%%
+# Guardando el modelo generado
+from joblib import dump, load 
+# Save the model as a pickle in a file
+dump(modelo, './data/clasificador_reportes.pkl')
+ 
+# Load the model from the file
+#knn_from_joblib = joblib.load('filename.pkl')
+# Use the loaded model to make predictions
+#knn_from_joblib.predict(X_test)
+# %%
