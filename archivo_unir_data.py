@@ -1,13 +1,9 @@
 # %%
-import requests
-from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import datetime as dt
 import locale
 locale.setlocale(locale.LC_ALL, 'esp_esp')
-fecha = list()
-titulo = list()
-desc = list()
+
 df = pd.read_csv('data/asalto_elcomercio.csv',index_col=['Unnamed: 0'])
 
 # %%
