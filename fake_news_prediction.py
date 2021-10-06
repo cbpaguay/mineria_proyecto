@@ -11,15 +11,20 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 from nltk.stem import SnowballStemmer
+from joblib import dump, load
 # %%
 #print(stopwords.words('spanish'))
 
 # %%
-fake_news_dataset = pd.read_csv('data/complete_dataset.csv')
-real_news_dataset = pd.read_csv('data/real_complete_dataset.csv',index_col=['Unnamed: 0'])
+#fake_news_dataset = pd.read_csv('data/complete_dataset.csv')
+# fake_news_dataset = pd.read_csv('data/fake_news_elmercioco.csv',index_col=['Unnamed: 0'])
+# real_news_dataset = pd.read_csv('data/real_complete_dataset.csv',index_col=['Unnamed: 0'])
+# real_news_dataset = real_news_dataset.iloc[:2500,:]
+# fake_news_dataset = fake_news_dataset.iloc[:3000,:]
 # %%
-del(fake_news_dataset['link'])
-news_dataset = pd.concat([fake_news_dataset,real_news_dataset])
+# del(fake_news_dataset['link'])
+# news_dataset = pd.concat([fake_news_dataset,real_news_dataset])
+#news_dataset.to_csv("data/complete_news_dataset.csv")
 # %%
 stem = SnowballStemmer('spanish')# basically creating an object for stemming! Stemming is basically getting the root word, for eg: loved --> love! 
 # %%
@@ -33,7 +38,8 @@ def stemming(content):
     return stemmed_content
 # %%
 # let's apply the function on our feature content
-news_dataset['descripcion_stem'] = news_dataset['descripcion'].apply(stemming)
+news_dataset = pd.read_csv('./data/dataset_sector.csv')
+news_dataset['descripcion_stem'] = news_dataset['titulo'].apply(stemming)
 # %%
 from sklearn.model_selection import train_test_split
 
@@ -42,13 +48,16 @@ training_data, testing_data = train_test_split(news_dataset, test_size=0.2, rand
 # %%
 X = training_data['descripcion_stem'].values
 y = training_data['is_fake'].values
+#dump(X, '/home/cbpaguay/PycharmProjects/mineria_api_rest/api/data/x_t.joblib')
+#dump(y, '/home/cbpaguay/PycharmProjects/mineria_api_rest/api/data/y_t.joblib')
 # %%
 vectorizer = CountVectorizer()
 X = vectorizer.fit_transform(X)
 # %%
 #classifier = LogisticRegression(C = 100, penalty = 'l2', solver= 'newton-cg')
-classifier = LogisticRegression(C = 0.1, penalty = 'l2', solver= 'liblinear')
+classifier = LogisticRegression(C = 1.0, penalty = 'l2', solver= 'liblinear')
 modelo = classifier.fit(X, y)
+#dump(modelo, '/home/cbpaguay/PycharmProjects/mineria_api_rest/api/data/modelo.joblib')
 # %%
 # accuracy score on training data
 y_pred_train = modelo.predict(X)
@@ -63,15 +72,15 @@ print("Accuracy: {:.2f} %".format(accuracies.mean()*100))
 print("Standard Deviation: {:.2f}".format(accuracies.std()*100))
 # %%
 # grid search to find better hyper parameters
-#from sklearn.model_selection import GridSearchCV
-#parameters = [{'solver': ['newton-cg','liblinear'], 'penalty': ['l2'],'C': [100, 10, 1.0, 0.1, 0.01]}]
-#grid_search = GridSearchCV(estimator=modelo,
-#                          param_grid=parameters,
-#                          scoring='accuracy',
-#                          cv=10)
-#grid_search.fit(X,y)
-#print("Best Accuracy: {:.2f} %".format(grid_search.best_score_*100))
-#print("Best Parameters: ", grid_search.best_params_)
+# from sklearn.model_selection import GridSearchCV
+# parameters = [{'solver': ['newton-cg','liblinear'], 'penalty': ['l2'],'C': [100, 10, 1.0, 0.1, 0.01]}]
+# grid_search = GridSearchCV(estimator=modelo,
+#                           param_grid=parameters,
+#                           scoring='accuracy',
+#                           cv=10)
+# grid_search.fit(X,y)
+# print("Best Accuracy: {:.2f} %".format(grid_search.best_score_*100))
+# print("Best Parameters: ", grid_search.best_params_)
 # %%
 # seperating the data and vectorizing to predict the labels from the model we made!
 X_test = testing_data['descripcion_stem']
@@ -79,7 +88,7 @@ X_test = vectorizer.transform(X_test)
 # %%
 # now to predict the labels from the model!
 y_pred_final = modelo.predict(X_test)
-print(y_pred_final)
+#print(y_pred_final)
 # %%
 y_pred_final.shape
 # %%
@@ -104,14 +113,3 @@ print('Outcome values : \n', tp, fn, fp, tn)
 # classification report for precision, recall f1-score and accuracy
 matrix = classification_report(actual,predicted,labels=[1,0])
 print('Reporte de Clasificacion : \n',matrix)
-#%%
-# Guardando el modelo generado
-from joblib import dump, load 
-# Save the model as a pickle in a file
-dump(modelo, './data/clasificador_reportes.pkl')
- 
-# Load the model from the file
-#knn_from_joblib = joblib.load('filename.pkl')
-# Use the loaded model to make predictions
-#knn_from_joblib.predict(X_test)
-# %%
