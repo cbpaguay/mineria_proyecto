@@ -47,6 +47,8 @@ training_data, testing_data = train_test_split(news_dataset, test_size=0.2, rand
 X = training_data['descripcion_stem'].values
 y = training_data['is_fake'].values
 
+dump(X, '/home/cbpaguay/PycharmProjects/mineria_api_rest/api/data/x_t.joblib')
+dump(y, '/home/cbpaguay/PycharmProjects/mineria_api_rest/api/data/y_t.joblib')
 # %%
 
 # ENTRENAMIENTO DEL MODELO
@@ -55,7 +57,7 @@ vectorizer = CountVectorizer()
 X = vectorizer.fit_transform(X)
 classifier = LogisticRegression(C = 1.0, penalty = 'l2', solver= 'liblinear')
 modelo = classifier.fit(X, y)
-
+dump(modelo, '/home/cbpaguay/PycharmProjects/mineria_api_rest/api/data/modelo.joblib')
 # %%
 
 # VERIFICANDO LA PRECISIÓN DEL MODELO PARA LOS DATOS DE ENTRENAMIENTO
@@ -96,13 +98,3 @@ print('Outcome values : \n', tp, fn, fp, tn)
 
 matrix = classification_report(actual,predicted,labels=[1,0])
 print('Reporte de Clasificacion : \n',matrix)
-
-# %%
-
-# GUARDANDO EL MODELO
-
-from joblib import dump, load
-
-dump(X, './data/x_t.joblib')
-dump(y, './data/y_t.joblib')
-dump(modelo, './data/modelo.joblib')
